@@ -65,6 +65,10 @@
     }
     .chip:hover { border-color: #aaa; color: var(--text); }
     .chip.active { background: var(--accent-bg); color: var(--accent); border-color: #93c5fd; }
+    .chip.active[data-type="archviz"]    { background: #fdf2ff; color: #7e22ce; border-color: #e9d5ff; }
+    .chip.active[data-type="conceito"]   { background: #fff7ed; color: #c2410c; border-color: #fed7aa; }
+    .chip.active[data-type="estudantil"] { background: #ecfdf5; color: #065f46; border-color: #a7f3d0; }
+    .chip.active[data-type="open"]       { background: #eff6ff; color: #1d4ed8; border-color: #bfdbfe; }
 
     /* ── Stats bar ── */
     .stats { display: flex; gap: 16px; margin-bottom: 1.25rem; flex-wrap: wrap; }
@@ -84,8 +88,13 @@
       border-radius: 12px; padding: 1rem 1.1rem;
       display: flex; flex-direction: column; gap: 8px;
       transition: border-color .15s;
+      border-top: 3px solid var(--border);
     }
-    .card:hover { border-color: #bbb; }
+    .card:hover { border-color: #bbb; border-top-color: var(--card-accent, #bbb); }
+    .card[data-type="archviz"]    { border-top-color: #a855f7; --card-accent: #a855f7; }
+    .card[data-type="conceito"]   { border-top-color: #f97316; --card-accent: #f97316; }
+    .card[data-type="estudantil"] { border-top-color: #10b981; --card-accent: #10b981; }
+    .card[data-type="open"]       { border-top-color: #3b82f6; --card-accent: #3b82f6; }
 
     .card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
     .card-title { font-size: 14px; font-weight: 500; line-height: 1.35; flex: 1; }
@@ -94,10 +103,10 @@
       font-size: 11px; font-weight: 500; padding: 3px 8px;
       border-radius: 20px; white-space: nowrap; flex-shrink: 0;
     }
-    .badge-archviz  { background: var(--pro-bg);     color: var(--pro);     }
-    .badge-conceito { background: var(--accent-bg);  color: var(--accent);  }
-    .badge-estudantil { background: var(--success-bg); color: var(--success); }
-    .badge-open     { background: #f3f4f6;           color: #374151;        }
+    .badge-archviz    { background: #fdf2ff; color: #7e22ce; border: 1px solid #e9d5ff; }
+    .badge-conceito   { background: #fff7ed; color: #c2410c; border: 1px solid #fed7aa; }
+    .badge-estudantil { background: #ecfdf5; color: #065f46; border: 1px solid #a7f3d0; }
+    .badge-open       { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
 
     .card-org { font-size: 12px; color: var(--muted); }
     .card-desc { font-size: 12px; color: #4b5563; line-height: 1.55; }
@@ -221,7 +230,7 @@ function renderGrid() {
   }
 
   grid.innerHTML = filtered.map(c => `
-    <div class="card">
+    <div class="card" data-type="${c.type}">
       <div class="card-top">
         <span class="card-title">${esc(c.title)}</span>
         <span class="badge ${TYPE_CLASS[c.type] || 'badge-open'}">${TYPE_LABEL[c.type] || c.type}</span>
@@ -255,7 +264,7 @@ function initFilters() {
   const types = ['all', 'archviz', 'conceito', 'estudantil', 'open'];
   const labels = { all: 'Todos', archviz: 'Archviz', conceito: 'Conceito', estudantil: 'Estudantil', open: 'Aberto geral' };
   document.getElementById('filters').innerHTML = types.map(t =>
-    `<button class="chip${t === activeFilter ? ' active' : ''}" onclick="setFilter('${t}')">${labels[t]}</button>`
+    `<button class="chip${t === activeFilter ? ' active' : ''}" data-type="${t}" onclick="setFilter('${t}')">${labels[t]}</button>`
   ).join('');
 }
 
