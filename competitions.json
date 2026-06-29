@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-06-28T10:24:56.386572+00:00",
+  "updated_at": "2026-06-29T12:28:28.863936+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "Open Architectural Competition for Maksimir Stadium and Svetice Sports and Recreation Centre",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "28/06/2026",
-      "registration": "17/06/2026",
-      "prize": "Ver site",
-      "location": "Zagreb, Croatia",
-      "lang": "English, Croatian",
-      "url": "https://competitions.archi/competition/open-architectural-competition-for-maksimir-stadium-and-svetice-sports-and-recreation-centre/",
-      "desc": "Open Architecture Competition The competition was launched on March 20th 2026 following a landmark agreement between the City of Zagreb and the Croatian Government. This €224 million joint investment aims to replace agin",
-      "source": "competitions.archi"
-    },
     {
       "title": "Rome Rain Rooms",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/situer-milano-competition/",
       "desc": "Terraviva launches SITUER MILANO, a new competition developed in collaboration with the design brand of the same name, challenging architects and designers to conceive a coordinated furniture collection structured around",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "CALL OF THE SEA Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "09/10/2026",
+      "registration": "09/10/2026",
+      "prize": "8,000 $",
+      "location": "Indonesia",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-of-the-sea-competition/",
+      "desc": "Terraviva launches CALL OF THE SEA, a new international architecture competition that invites participants to design a small-scale overwater accommodation within the incredible village of Torosiaje, Indonesia.",
       "source": "competitions.archi"
     }
   ]
