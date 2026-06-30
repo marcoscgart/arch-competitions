@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-06-29T12:28:28.863936+00:00",
+  "updated_at": "2026-06-30T10:54:25.481165+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "Rome Rain Rooms",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "29/06/2026",
-      "registration": "28/05/2026",
-      "prize": "10,000 €",
-      "location": "Rome",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/rome-rain-rooms/",
-      "desc": "Rome Rain Rooms invites architects, designers, and visionaries from around the world to reimagine how cities live with water. As climate change reshapes weather patterns, Rome faces longer droughts followed by sudden, in",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Vernacular AI Architecture",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "29/06/2026",
-      "registration": "30/05/2026",
-      "prize": "6,000 $",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/vernacular-ai-architecture/",
-      "desc": "Introduction Welcome to the Vernacular AI Architecture 2026 competition, proudly hosted by Archibest. Under the theme “Where Heritage Meets Intelligence,” this competition serves as a global platform exploring the inters",
-      "source": "competitions.archi"
-    },
     {
       "title": "The Next House: USA",
       "org": "competitions.archi",
@@ -471,6 +445,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Courtyard House (Marrakech, Morocco) – Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "25/09/2026",
+      "registration": "10/06/2026",
+      "prize": "Recognition, Media Exposure, Certificate",
+      "location": "Marrakech, Morocco",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/courtyard-house-marrakech-morocco-architecture-competition/",
+      "desc": "for All OVERVIEW This competition challenges architects and designers to redefine the traditional Moroccan courtyard house (riad) for contemporary living. Proposals must design a sustainable, single-family residence in M",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Situér Milano Competition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-of-the-sea-competition/",
       "desc": "Terraviva launches CALL OF THE SEA, a new international architecture competition that invites participants to design a small-scale overwater accommodation within the incredible village of Torosiaje, Indonesia.",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "RUINAS DE QUILMES Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "16/10/2026",
+      "registration": "16/10/2026",
+      "prize": "up to 9.000 $",
+      "location": "Argentina",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/ruinas-de-quilmes-competition/",
+      "desc": "Terraviva launches RUINAS DE QUILMES, a new international architecture competition that invites participants to reimagine the Sacred City of Quilmes (Argentina) as a contemporary Open-Air Museum, through a system of land",
       "source": "competitions.archi"
     }
   ]
