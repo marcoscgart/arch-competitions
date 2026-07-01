@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-06-30T10:54:25.481165+00:00",
+  "updated_at": "2026-07-01T11:20:54.573820+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "The Next House: USA",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/06/2026",
-      "registration": "20/05/2026",
-      "prize": "20,000 $",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/the-next-house-usa/",
-      "desc": "For over half a century, the American suburban home has been more than just a building—it has been a cultural symbol, a promise, and at times a problem. Once imagined as the embodiment of comfort and stability, it now of",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "SMALL PROJECT BIG IMPACT​",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/06/2026",
-      "registration": "30/06/2026",
-      "prize": "Ver site",
-      "location": "Globally",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/small-project-big-impact/",
-      "desc": "Building Trust International are excited to announce the launch of our 10th Design Challenge.​ An open call to architects, designers, engineers and creative thinkers​ to propose small-scale projects, anywhere globally th",
-      "source": "competitions.archi"
-    },
     {
       "title": "MILAN DESIGN LOFT Competition",
       "org": "competitions.archi",
@@ -494,6 +468,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/ruinas-de-quilmes-competition/",
       "desc": "Terraviva launches RUINAS DE QUILMES, a new international architecture competition that invites participants to reimagine the Sacred City of Quilmes (Argentina) as a contemporary Open-Air Museum, through a system of land",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Pavilion Atlas 2026",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "19/10/2026",
+      "registration": "16/09/2026",
+      "prize": "20,000 €",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/pavilion-atlas-2026/",
+      "desc": "Every place carries a story — not just of its past, but of its present values and future possibilities. Architecture can give form to those stories, offering a way to express culture, ideas, and identity without relying ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Underbridge #2",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "19/10/2026",
+      "registration": "17/09/2026",
+      "prize": "8,000 €",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/underbridge-2/",
+      "desc": "As cities expand, vertical and horizontal spaces are continually redefined, adapting to the pressing demands of urban living. Yet, beneath the expanse of our infrastructure lies a matrix of underutilized spaces, often ov",
       "source": "competitions.archi"
     }
   ]
