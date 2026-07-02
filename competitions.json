@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T11:20:54.573820+00:00",
-  "count": 38,
+  "updated_at": "2026-07-02T10:34:31.986368+00:00",
+  "count": 39,
   "competitions": [
     {
       "title": "MILAN DESIGN LOFT Competition",
@@ -455,6 +455,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-of-the-sea-competition/",
       "desc": "Terraviva launches CALL OF THE SEA, a new international architecture competition that invites participants to design a small-scale overwater accommodation within the incredible village of Torosiaje, Indonesia.",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Linha do Horizonte",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "12/10/2026",
+      "registration": "30/09/2026",
+      "prize": "Pool prize 20.500 €",
+      "location": "Cidade Velha, Santiago, Cape Verde",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/linha-do-horizonte/",
+      "desc": "to all PREMISE Cape Verde occupies a unique position at the crossroads of Africa, Europe and the Atlantic. Across its islands, centuries of migrations and exchanges have shaped a layered cultural identity and a landscape",
       "source": "competitions.archi"
     },
     {
