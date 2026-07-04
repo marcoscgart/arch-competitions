@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-07-03T10:32:08.406531+00:00",
-  "count": 39,
+  "updated_at": "2026-07-04T10:05:36.720267+00:00",
+  "count": 37,
   "competitions": [
-    {
-      "title": "MILAN DESIGN LOFT Competition",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "03/07/2026",
-      "registration": "03/07/2026",
-      "prize": "8.000 €",
-      "location": "Milan",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/milan-design-loft-competition/",
-      "desc": "Terraviva launches MILAN DESIGN LOFT, a new international competition that invites participants to rethink the interiors of a loft for an architecture student!",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "CAMPOSAZ 54:54 | Progetto Manifattura – Wooden Self-Build Workshop",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "03/07/2026",
-      "registration": "12/07/2026",
-      "prize": "free",
-      "location": "Rovereto (TN), Italy",
-      "lang": "English and Italian",
-      "url": "https://competitions.archi/competition/camposaz-5454-progetto-manifattura-wooden-self-build-workshop/",
-      "desc": "CAMPOSAZ 54:54 | Progetto Manifattura The workshop will be held in Rovereto (TN), Italy, from 03.07.2026 to 12.07.2026 Registration by 17th June 2026 Camposaz 54:54 lands in the mountain town of Rovereto for a special ed",
-      "source": "competitions.archi"
-    },
     {
       "title": "HOLD THE PLACE 16th International Design Contest Trieste Contemporanea",
       "org": "competitions.archi",
