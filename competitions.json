@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-05T10:08:10.481230+00:00",
-  "count": 37,
+  "updated_at": "2026-07-06T12:02:10.379989+00:00",
+  "count": 36,
   "competitions": [
-    {
-      "title": "HOLD THE PLACE 16th International Design Contest Trieste Contemporanea",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "05/07/2026",
-      "registration": "05/07/2026",
-      "prize": "BEBA/CEI/GILLO DORFLES/VENZONE SPECIAL PRIZE",
-      "location": "Trieste",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/hold-the-place-16th-international-design-contest-trieste-contemporanea/",
-      "desc": "call The Trieste Contemporanea Committee is pleased to announce the 16th edition of its International Design Contest: HOLD THE PLACE. The competition is carried out under the patronage of the ADI – Association for Indust",
-      "source": "competitions.archi"
-    },
     {
       "title": "Smart Village Hub",
       "org": "competitions.archi",
