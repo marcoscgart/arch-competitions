@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T12:02:10.379989+00:00",
-  "count": 36,
+  "updated_at": "2026-07-07T10:52:18.029481+00:00",
+  "count": 37,
   "competitions": [
     {
       "title": "Smart Village Hub",
@@ -143,6 +143,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/riders-comfort-pod/",
       "desc": "At all hours of the day, from the busiest streets to the narrowest alleys, under scorching sun or pouring rain, riders are an omnipresent presence in our cities. They are not mere background actors, but a constant and ac",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Market Hall of Local Produce",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "24/07/2026",
+      "registration": "14/07/2026",
+      "prize": "Ver site",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/market-hall-of-local-produce/",
+      "desc": "Introduction Local markets have long been the backbone of regional food systems—connecting farmers, artisans, and communities while supporting sustainable livelihoods. In an era of industrialized supply chains and food i",
       "source": "competitions.archi"
     },
     {
