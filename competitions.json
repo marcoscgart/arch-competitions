@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-07T10:52:18.029481+00:00",
-  "count": 37,
+  "updated_at": "2026-07-08T10:12:50.719459+00:00",
+  "count": 36,
   "competitions": [
-    {
-      "title": "Smart Village Hub",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "07/07/2026",
-      "registration": "30/06/2026",
-      "prize": "Ver site",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/smart-village-hub/",
-      "desc": "Introduction Rural settlements across the world are at a pivotal moment—balancing traditional lifestyles with the demands of modernization, connectivity, and climate resilience. The Smart Village Hub competition invites ",
-      "source": "competitions.archi"
-    },
     {
       "title": "Urban Toilets Competition",
       "org": "competitions.archi",
