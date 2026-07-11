@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-10T10:49:54.746021+00:00",
+  "updated_at": "2026-07-11T09:24:24.040899+00:00",
   "count": 36,
   "competitions": [
-    {
-      "title": "Urban Toilets Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "10/07/2026",
-      "registration": "10/07/2026",
-      "prize": "8.000 $",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/urban-toilets-competition/",
-      "desc": "Terraviva launches URBAN TOILETS, a new competition that invites participants to rethink the public restroom as an architectural opportunity, transforming an essential service into a meaningful urban landmark!",
-      "source": "competitions.archi"
-    },
     {
       "title": "Design Discovery Awards (D&A)",
       "org": "competitions.archi",
@@ -468,6 +455,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/underbridge-2/",
       "desc": "As cities expand, vertical and horizontal spaces are continually redefined, adapting to the pressing demands of urban living. Yet, beneath the expanse of our infrastructure lies a matrix of underutilized spaces, often ov",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "VILLA GIOIA Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "23/10/2026",
+      "registration": "23/10/2026",
+      "prize": "10,000 €",
+      "location": "Italy",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/villa-gioia-competition/",
+      "desc": "Terraviva launches VILLA GIOIA, a new international architecture competition that invites participants to transform a historic Italian estate near Lake Garda, into a contemporary retirement residence.",
       "source": "competitions.archi"
     }
   ]
