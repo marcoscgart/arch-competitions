@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-07-12T09:47:37.217255+00:00",
+  "updated_at": "2026-07-13T10:56:31.282244+00:00",
   "count": 36,
   "competitions": [
-    {
-      "title": "Design Discovery Awards (D&A)",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "12/07/2026",
-      "registration": "12/07/2026",
-      "prize": "Ver site",
-      "location": "London, United Kingdom",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/design-discovery-awards-da-4/",
-      "desc": "The Design Discovery Awards (D&A) continues its innovative season-based format to recognize and honor outstanding achievements across three distinct levels: Platinum, Gold, and Silver. This season’s award-winning works b",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Community Library & Learning Space",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "12/07/2026",
-      "registration": "02/07/2026",
-      "prize": "Ver site",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/community-library-learning-space/",
-      "desc": "Introduction Libraries today are no longer silent repositories of books—they are dynamic community anchors that support lifelong learning, social interaction, and cultural exchange. The Community Library & Learning Space",
-      "source": "competitions.archi"
-    },
     {
       "title": "Circular Economy Marketplace",
       "org": "competitions.archi",
@@ -468,6 +442,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/villa-gioia-competition/",
       "desc": "Terraviva launches VILLA GIOIA, a new international architecture competition that invites participants to transform a historic Italian estate near Lake Garda, into a contemporary retirement residence.",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call For Ideas: Tiny House 2026 Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "23/10/2026",
+      "registration": "15/07/2026",
+      "prize": "USD 5000",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-ideas-tiny-house-2026-architecture-competition/",
+      "desc": "for All A Home is a space that is intimate to all of us. It goes beyond an everyday function of being a physical shelter for people and their activities; a home connects with its users at a personal and emotional level. ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Designaddvance 2026: Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "29/10/2026",
+      "registration": "23/10/2026",
+      "prize": "Cash prize for top 3 winners",
+      "location": "India",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/designaddvance-2026-beyond-the-mall-rethinking-retail-landscapes-as-urban-public-space/",
+      "desc": "& PG Students and Young Professionals Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space Designaddvance 2026 invites participants to reimagine retail architecture as a civic catalyst – a place where comm",
       "source": "competitions.archi"
     }
   ]
