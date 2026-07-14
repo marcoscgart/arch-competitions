@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T10:56:31.282244+00:00",
+  "updated_at": "2026-07-14T09:54:30.859182+00:00",
   "count": 36,
   "competitions": [
     {
@@ -117,6 +117,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/coastal-shelter-architecture-competition-outer-banks-usa/",
       "desc": "for All Overview The Coastal Shelter Architecture Competition invites architects, designers, and students to explore building within the dynamic and fragile landscape of the Outer Banks, North Carolina. Shaped by wind, t",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Ideas Competition. Design call for the New Headquarters of the Quito Tenis y Golf Club",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "28/07/2026",
+      "registration": "28/07/2026",
+      "prize": "Ver site",
+      "location": "Pifo, Ecuador",
+      "lang": "Spanish - English",
+      "url": "https://competitions.archi/competition/ideas-competition-design-call-for-the-new-headquarters-of-the-quito-tenis-y-golf-club/",
+      "desc": "Quito Tenis y Golf Club, with the organization and coordination of the Colegio de Arquitectos del Ecuador – Pichincha (CAE-P), invites national and international architects, firms, and multidisciplinary teams to take par",
       "source": "competitions.archi"
     },
     {
@@ -367,6 +380,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "International Architecture and Landscape Design Competition – Capital City Cemetery of Pristina",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "06/10/2026",
+      "registration": "06/10/2026",
+      "prize": "Ver site",
+      "location": "Pristina, Republic of Kosovo",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/international-architecture-and-landscape-design-competition-capital-city-cemetery-of-pristina/",
+      "desc": "The Capital City of Pristina invites architects, landscape architects and multidisciplinary design teams from around the world to participate in the International Architecture and Landscape Design Competition for the Cap",
+      "source": "competitions.archi"
+    },
+    {
       "title": "CALL OF THE SEA Competition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -442,32 +468,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/villa-gioia-competition/",
       "desc": "Terraviva launches VILLA GIOIA, a new international architecture competition that invites participants to transform a historic Italian estate near Lake Garda, into a contemporary retirement residence.",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call For Ideas: Tiny House 2026 Architecture Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "23/10/2026",
-      "registration": "15/07/2026",
-      "prize": "USD 5000",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-ideas-tiny-house-2026-architecture-competition/",
-      "desc": "for All A Home is a space that is intimate to all of us. It goes beyond an everyday function of being a physical shelter for people and their activities; a home connects with its users at a personal and emotional level. ",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Designaddvance 2026: Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "29/10/2026",
-      "registration": "23/10/2026",
-      "prize": "Cash prize for top 3 winners",
-      "location": "India",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/designaddvance-2026-beyond-the-mall-rethinking-retail-landscapes-as-urban-public-space/",
-      "desc": "& PG Students and Young Professionals Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space Designaddvance 2026 invites participants to reimagine retail architecture as a civic catalyst – a place where comm",
       "source": "competitions.archi"
     }
   ]
