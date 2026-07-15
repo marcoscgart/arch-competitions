@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-14T09:54:30.859182+00:00",
+  "updated_at": "2026-07-15T09:58:52.797971+00:00",
   "count": 36,
   "competitions": [
-    {
-      "title": "Circular Economy Marketplace",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "14/07/2026",
-      "registration": "04/07/2026",
-      "prize": "Ver site",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/circular-economy-marketplace/",
-      "desc": "Introduction Markets have always been the heart of communities—places of exchange, interaction, and livelihood. However, conventional marketplaces today generate enormous waste, consume high energy, and follow linear pat",
-      "source": "competitions.archi"
-    },
     {
       "title": "OPEN CALL | INHABIT v1 : Designing a Digital Detox Township for 2050",
       "org": "competitions.archi",
@@ -130,6 +117,19 @@
       "lang": "Spanish - English",
       "url": "https://competitions.archi/competition/ideas-competition-design-call-for-the-new-headquarters-of-the-quito-tenis-y-golf-club/",
       "desc": "Quito Tenis y Golf Club, with the organization and coordination of the Colegio de Arquitectos del Ecuador – Pichincha (CAE-P), invites national and international architects, firms, and multidisciplinary teams to take par",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Portland Waterfront Park Design Competition: Gov. Tom McCall Waterfront Park",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/07/2026",
+      "registration": "30/07/2026",
+      "prize": "US $50,000",
+      "location": "Portland, OR, USA",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/portland-waterfront-park-design-competition-gov-tom-mccall-waterfront-park/",
+      "desc": "Two-Stage The Portland Waterfront Park Design Competition is an open, two-stage competition to transform Gov. Tom McCall Waterfront Park in Portland, Oregon. At stage two, shortlisted teams will create concept designs fo",
       "source": "competitions.archi"
     },
     {
