@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-07-15T09:58:52.797971+00:00",
+  "updated_at": "2026-07-16T10:05:01.319728+00:00",
   "count": 36,
   "competitions": [
-    {
-      "title": "OPEN CALL | INHABIT v1 : Designing a Digital Detox Township for 2050",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "15/07/2026",
-      "registration": "15/07/2026",
-      "prize": "Ver site",
-      "location": "India",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/open-call-inhabit-v1-designing-a-digital-detox-township-for-2050/",
-      "desc": "By 2050, urban life may be defined by constant digital exposure, cognitive overload, and rising mental health challenges. INHABIT Edition 1 invites architects and designers to rethink housing as infrastructure for well-b",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "UltraTech-IndiaNext Design Competition | Sustainable Futures",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "15/07/2026",
-      "registration": "10/07/2026",
-      "prize": "INR 26 Lakh",
-      "location": "Pan India",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/ultratech-indianext-design-competition-sustainable-futures/",
-      "desc": "IndiaNext – Edition 6 | Theme – Sustainable Futures This edition aims to recognise and celebrate pioneering work by Architects & Engineers addressing the changing challenges of the built environment. Competition Website:",
-      "source": "competitions.archi"
-    },
     {
       "title": "THE GARDEN OF UNIVERSITY HOUSE, BUCHAREST",
       "org": "competitions.archi",
@@ -468,6 +442,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/villa-gioia-competition/",
       "desc": "Terraviva launches VILLA GIOIA, a new international architecture competition that invites participants to transform a historic Italian estate near Lake Garda, into a contemporary retirement residence.",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call For Ideas: Tiny House 2026 Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "23/10/2026",
+      "registration": "15/07/2026",
+      "prize": "USD 5000",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-ideas-tiny-house-2026-architecture-competition/",
+      "desc": "for All A Home is a space that is intimate to all of us. It goes beyond an everyday function of being a physical shelter for people and their activities; a home connects with its users at a personal and emotional level. ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Designaddvance 2026: Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "29/10/2026",
+      "registration": "23/10/2026",
+      "prize": "Cash prize for top 3 winners",
+      "location": "India",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/designaddvance-2026-beyond-the-mall-rethinking-retail-landscapes-as-urban-public-space/",
+      "desc": "& PG Students and Young Professionals Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space Designaddvance 2026 invites participants to reimagine retail architecture as a civic catalyst – a place where comm",
       "source": "competitions.archi"
     }
   ]
