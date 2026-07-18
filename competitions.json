@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-17T09:53:33.633491+00:00",
+  "updated_at": "2026-07-18T09:20:09.050115+00:00",
   "count": 36,
   "competitions": [
-    {
-      "title": "THE GARDEN OF UNIVERSITY HOUSE, BUCHAREST",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "17/07/2026",
-      "registration": "17/07/2026",
-      "prize": "Ver site",
-      "location": "Bucharest",
-      "lang": "Romanian/ English",
-      "url": "https://competitions.archi/competition/the-garden-of-university-house-bucharest/",
-      "desc": "The Romanian Order of Architects (OAR) and the Contracting Authority – the University of Bucharest, are glad to announce the official launch of ”The Garden of University House, Bucharest” International Design Competition",
-      "source": "competitions.archi"
-    },
     {
       "title": "Museum of Emotions #8",
       "org": "competitions.archi",
@@ -468,6 +455,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/designaddvance-2026-beyond-the-mall-rethinking-retail-landscapes-as-urban-public-space/",
       "desc": "& PG Students and Young Professionals Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space Designaddvance 2026 invites participants to reimagine retail architecture as a civic catalyst – a place where comm",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Tactical Urbanism NOW! Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/10/2026",
+      "registration": "30/10/2026",
+      "prize": "10,000 $",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/tactical-urbanism-now-competition-terraviva/",
+      "desc": "Terraviva launches TACTICAL URBANISM NOW!, a new edition of the international competition that challenges participants to design tactical interventions that prototype new ways of adapting public spaces to everyday urban ",
       "source": "competitions.archi"
     }
   ]
