@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-07-20T10:48:16.007788+00:00",
-  "count": 36,
+  "updated_at": "2026-07-21T10:22:13.326307+00:00",
+  "count": 37,
   "competitions": [
-    {
-      "title": "Museum of Emotions #8",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "20/07/2026",
-      "registration": "18/06/2026",
-      "prize": "10,000 €",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/museum-of-emotions-8/",
-      "desc": "It may not be your first instinct when entering a building to consider how it makes you feel, but architecture has always had a big impact on emotions. Different spaces are designed to make their inhabitants feel differe",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "UDL Thesis Publication 2026",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "20/07/2026",
-      "registration": "20/07/2026",
-      "prize": "Ver site",
-      "location": "Online / Global",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/udl-thesis-publication-2026/",
-      "desc": "for Undergraduate and Postgraduate Students The UDL Thesis Publication 2026 is an international academic initiative that curates outstanding undergraduate and postgraduate thesis projects in architecture, urban design, l",
-      "source": "competitions.archi"
-    },
     {
       "title": "Riders’ Comfort Pod",
       "org": "competitions.archi",
@@ -468,6 +442,45 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/tactical-urbanism-now-competition-terraviva/",
       "desc": "Terraviva launches TACTICAL URBANISM NOW!, a new edition of the international competition that challenges participants to design tactical interventions that prototype new ways of adapting public spaces to everyday urban ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Open Call: Architectural Haiku Writing Contest, 4th Cycle: Architecture and Memories",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/10/2026",
+      "registration": "29/10/2026",
+      "prize": "Ver site",
+      "location": "-",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/open-call-architectural-haiku-writing-contest-4th-cycle-architecture-and-memories/",
+      "desc": "Architectural Haiku Writing Contest, 4th Cycle is the twenty-eighth initiative of the Architectural Journalism & Criticism Organization, founded by architect Pappal Suneja to spread awareness about this subject and sow t",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Memorial to the Sixth Extinction – Design Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "01/11/2026",
+      "registration": "01/11/2026",
+      "prize": "$15000",
+      "location": "Perth - Western Australia",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/memorial-to-the-sixth-extinction-design-competition-run-by-university-of-western-australia-the-australian-urban-design-research-centre-and-tcl/",
+      "desc": "International Ideas Competition There have been five major extinction events in Earth’s history, the fifth being the obliteration of the dinosaurs by an asteroid some 65 million years ago. For many plant and animal speci",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "€100,000 Prize / Kingspan MICROHOME 2026",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "02/11/2026",
+      "registration": "30/09/2026",
+      "prize": "100,000 €",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/e100000-prize-kingspan-microhome-2026/",
+      "desc": "The Kingspan MICROHOME 2026 continues Buildner’s long-standing exploration of compact living and sustainable design. Now in its 11th edition, and marking the fourth collaboration with Kingspan, the competition challenges",
       "source": "competitions.archi"
     }
   ]
