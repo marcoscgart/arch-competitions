@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-22T10:21:59.739021+00:00",
+  "updated_at": "2026-07-23T10:17:17.789630+00:00",
   "count": 37,
   "competitions": [
-    {
-      "title": "Riders’ Comfort Pod",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "22/07/2026",
-      "registration": "19/07/2026",
-      "prize": "15,000 €",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/riders-comfort-pod/",
-      "desc": "At all hours of the day, from the busiest streets to the narrowest alleys, under scorching sun or pouring rain, riders are an omnipresent presence in our cities. They are not mere background actors, but a constant and ac",
-      "source": "competitions.archi"
-    },
     {
       "title": "Market Hall of Local Produce",
       "org": "competitions.archi",
@@ -273,6 +260,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/nidos-de-agua-competition/",
       "desc": "Terraviva launches NIDOS DE AGUA, a new international architecture competition that invites participants to design a microarchitecture pavilion immersed in the wetland landscape of La Albufera Natural Park – Valencia. Pr",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Forest Retreat",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "15/09/2026",
+      "registration": "06/09/2026",
+      "prize": "Ver site",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/forest-retreat/",
+      "desc": "Design Intent & Objective Learn More Introduction Forests represent one of the most delicate and powerful ecosystems on Earth—spaces of silence, biodiversity, and deep sensory engagement. As urban life grows increasingly",
       "source": "competitions.archi"
     },
     {
