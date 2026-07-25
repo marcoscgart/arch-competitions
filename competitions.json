@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-24T10:13:05.939232+00:00",
+  "updated_at": "2026-07-25T09:42:26.040869+00:00",
   "count": 37,
   "competitions": [
-    {
-      "title": "Market Hall of Local Produce",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "24/07/2026",
-      "registration": "14/07/2026",
-      "prize": "Ver site",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/market-hall-of-local-produce/",
-      "desc": "Introduction Local markets have long been the backbone of regional food systems—connecting farmers, artisans, and communities while supporting sustainable livelihoods. In an era of industrialized supply chains and food i",
-      "source": "competitions.archi"
-    },
     {
       "title": "Coastal Shelter Architecture Competition (Outer Banks, USA)",
       "org": "competitions.archi",
@@ -481,6 +468,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/e100000-prize-kingspan-microhome-2026/",
       "desc": "The Kingspan MICROHOME 2026 continues Buildner’s long-standing exploration of compact living and sustainable design. Now in its 11th edition, and marking the fourth collaboration with Kingspan, the competition challenges",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "THE STUDENTS APARTMENT Competition",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "06/11/2026",
+      "registration": "06/11/2026",
+      "prize": "8,000 €",
+      "location": "Pavia",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-students-apartment-competition/",
+      "desc": "Terraviva launches THE STUDENTS APARTMENT, a new international architecture competition that invites participants to transform an apartment in the historic centre of Pavia into a contemporary living space tailored to uni",
       "source": "competitions.archi"
     }
   ]
