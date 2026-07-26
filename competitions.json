@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-25T09:42:26.040869+00:00",
-  "count": 37,
+  "updated_at": "2026-07-26T09:55:03.041570+00:00",
+  "count": 36,
   "competitions": [
-    {
-      "title": "Coastal Shelter Architecture Competition (Outer Banks, USA)",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "25/07/2026",
-      "registration": "10/07/2026",
-      "prize": "Winner+4 Runners Up",
-      "location": "Outer Banks, USA",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/coastal-shelter-architecture-competition-outer-banks-usa/",
-      "desc": "for All Overview The Coastal Shelter Architecture Competition invites architects, designers, and students to explore building within the dynamic and fragile landscape of the Outer Banks, North Carolina. Shaped by wind, t",
-      "source": "competitions.archi"
-    },
     {
       "title": "Ideas Competition. Design call for the New Headquarters of the Quito Tenis y Golf Club",
       "org": "competitions.archi",
