@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T11:16:09.719960+00:00",
-  "count": 36,
+  "updated_at": "2026-07-28T10:30:34.915535+00:00",
+  "count": 37,
   "competitions": [
     {
       "title": "Ideas Competition. Design call for the New Headquarters of the Quito Tenis y Golf Club",
@@ -325,6 +325,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/linha-do-horizonte/",
       "desc": "to all PREMISE Cape Verde occupies a unique position at the crossroads of Africa, Europe and the Atlantic. Across its islands, centuries of migrations and exchanges have shaped a layered cultural identity and a landscape",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Concursos AG360: Floating Table",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "12/10/2026",
+      "registration": "27/09/2026",
+      "prize": "US $ 66.00",
+      "location": "Quintana Roo - México",
+      "lang": "Spanish",
+      "url": "https://competitions.archi/competition/concursos-ag360-floating-table/",
+      "desc": "to any architect or architecture student A floating gastronomic pavilion will be designed to become a new symbol of the lagoon, where architecture and landscape merge into one. More than simply designing a conventional r",
       "source": "competitions.archi"
     },
     {
