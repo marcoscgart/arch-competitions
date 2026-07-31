@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-07-30T10:21:16.023801+00:00",
+  "updated_at": "2026-07-31T10:34:44.357945+00:00",
   "count": 36,
   "competitions": [
-    {
-      "title": "Portland Waterfront Park Design Competition: Gov. Tom McCall Waterfront Park",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/07/2026",
-      "registration": "30/07/2026",
-      "prize": "US $50,000",
-      "location": "Portland, OR, USA",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/portland-waterfront-park-design-competition-gov-tom-mccall-waterfront-park/",
-      "desc": "Two-Stage The Portland Waterfront Park Design Competition is an open, two-stage competition to transform Gov. Tom McCall Waterfront Park in Portland, Oregon. At stage two, shortlisted teams will create concept designs fo",
-      "source": "competitions.archi"
-    },
     {
       "title": "Call for Entries: Rifat Chadirji Prize 2026: The Right to Landscape, Reclaiming Land and Sustaining Lives in Sahl Al Khi",
       "org": "competitions.archi",
@@ -468,6 +455,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/the-students-apartment-competition/",
       "desc": "Terraviva launches THE STUDENTS APARTMENT, a new international architecture competition that invites participants to transform an apartment in the historic centre of Pavia into a contemporary living space tailored to uni",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call for Entries: Open Chair International Design Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "06/11/2026",
+      "registration": "22/10/2026",
+      "prize": "1000 GBP",
+      "location": "n/a",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-entries-open-chair-international-design-competition/",
+      "desc": "Competition - Paid A Global Design Competition, in Partnership with Aibuild Open Chair is a global ideas competition inviting architects, designers, makers, engineers, and creative thinkers to reimagine one of the oldest",
       "source": "competitions.archi"
     }
   ]
