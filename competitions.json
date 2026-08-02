@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T09:54:49.726758+00:00",
-  "count": 38,
+  "updated_at": "2026-08-02T09:52:34.512641+00:00",
+  "count": 39,
   "competitions": [
     {
       "title": "Radical Innovation Hospitality Project",
@@ -494,6 +494,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
       "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION!",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "30/11/2026",
+      "prize": "$9,000 (Total in Prizes)",
+      "location": "Not specified",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
+      "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
       "source": "competitions.archi"
     }
   ]
