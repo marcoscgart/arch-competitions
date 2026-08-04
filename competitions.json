@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-08-03T11:18:09.291197+00:00",
+  "updated_at": "2026-08-04T10:33:39.427014+00:00",
   "count": 39,
   "competitions": [
-    {
-      "title": "Radical Innovation Hospitality Project",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "03/08/2026",
-      "registration": "03/08/2026",
-      "prize": "Ver site",
-      "location": "New York, NY",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/radical-innovation-hospitality-project/",
-      "desc": "As Radical Innovation celebrates its 20th Anniversary, our mission remains to discover and support ideas that shape the future of hospitality. Entries should present an innovative hospitality project that reimagines how ",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Radical Innovation Hospitality Product",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "03/08/2026",
-      "registration": "03/08/2026",
-      "prize": "Ver site",
-      "location": "New York, NY",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/radical-innovation-hospitality-product/",
-      "desc": "As Radical Innovation celebrates its 20th Anniversary, our mission remains to discover and support ideas that shape the future of hospitality. Entries should showcase an innovative hospitality product that improves hotel",
-      "source": "competitions.archi"
-    },
     {
       "title": "Architecture International Contest: Iceland Bathhouse",
       "org": "competitions.archi",
@@ -260,6 +234,19 @@
       "lang": "Spanish",
       "url": "https://competitions.archi/competition/concursos-ag360-floating-table/",
       "desc": "to any architect or architecture student A floating gastronomic pavilion will be designed to become a new symbol of the lagoon, where architecture and landscape merge into one. More than simply designing a conventional r",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "International Sustainable Building Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "15/10/2026",
+      "registration": "15/10/2026",
+      "prize": "Certificate of Honour",
+      "location": "Antalya, Türkiye",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/international-sustainable-building-competition/",
+      "desc": "Free The International Sustainable Building Competition will be held at COP31 and will be open to participants from all countries, with the aim to promote energy-efficient, low-carbon, climate-resilient, and sustainable ",
       "source": "competitions.archi"
     },
     {
@@ -507,6 +494,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
       "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Vancouver Tall Challenge",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "29/10/2026",
+      "prize": "$15,000 CAD",
+      "location": "Vancouver",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
+      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
       "source": "competitions.archi"
     }
   ]
