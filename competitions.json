@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:30:23.541737+00:00",
+  "updated_at": "2026-08-06T10:34:47.859354+00:00",
   "count": 39,
   "competitions": [
     {
@@ -328,6 +328,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Phygital HORECA Experience Design",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "29/10/2026",
+      "registration": "29/10/2026",
+      "prize": "€5000",
+      "location": "Online",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/phygital-horeca-experience-design/",
+      "desc": "A leading international coffee producer, together with Desall, invites you to research the most innovative phygital interaction models currently available on the market, including through fieldwork in HORECA venues. The ",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Tactical Urbanism NOW! Competition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -494,19 +507,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
       "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Vancouver Tall Challenge",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "29/10/2026",
-      "prize": "$15,000 CAD",
-      "location": "Vancouver",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
-      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
       "source": "competitions.archi"
     }
   ]
