@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-08-09T08:37:02.416666+00:00",
+  "updated_at": "2026-08-10T09:15:02.407864+00:00",
   "count": 39,
   "competitions": [
-    {
-      "title": "Architecture International Contest: Iceland Bathhouse",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "09/08/2026",
-      "registration": "24/08/2026",
-      "prize": "US $9,000",
-      "location": "Grindavík, Iceland",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/architecture-international-contest-iceland-bathhouse/",
-      "desc": "Contest International architecture competition for the design of a contemporary thermal retreat, nestled in Lagoon Blue in Iceland, will function as a tourist attraction focused on providing an immersive experience among",
-      "source": "competitions.archi"
-    },
     {
       "title": "HEALING GARDEN – Certosa Park",
       "org": "competitions.archi",
@@ -507,6 +494,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
       "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Vancouver Tall Challenge",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "29/10/2026",
+      "prize": "$15,000 CAD",
+      "location": "Vancouver",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
+      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
       "source": "competitions.archi"
     }
   ]
