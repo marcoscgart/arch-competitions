@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T08:49:19.561163+00:00",
-  "count": 39,
+  "updated_at": "2026-08-12T09:07:35.726821+00:00",
+  "count": 38,
   "competitions": [
     {
       "title": "HEALING GARDEN – Certosa Park",
@@ -494,19 +494,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
       "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Vancouver Tall Challenge",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "29/10/2026",
-      "prize": "$15,000 CAD",
-      "location": "Vancouver",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
-      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
       "source": "competitions.archi"
     }
   ]
