@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T09:07:41.636450+00:00",
-  "count": 38,
+  "updated_at": "2026-08-14T09:03:52.054319+00:00",
+  "count": 37,
   "competitions": [
     {
       "title": "HEALING GARDEN – Certosa Park",
@@ -39,6 +39,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/pivot-door-sketch-contest-2026/",
       "desc": "About the contest FritsJurgens Asia’s annual design competition, Pivot Door Sketch Contest, is back. This year, entries are invited across two categories: students and professionals. We’re inviting architects, designers ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "KTA 2026 – Final Project Competition",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "21/08/2026",
+      "registration": "19/08/2026",
+      "prize": "IDR 18,000,000",
+      "location": "Anywhere",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/kta-2026-final-project-competition/",
+      "desc": "year student KTA 2026 final project competition showcasing selected works from participating universities. Serves as a benchmarking tool, separate in theme from Generative. The KTA 2026 Final Project Competition takes a ",
       "source": "competitions.archi"
     },
     {
@@ -104,6 +117,19 @@
       "lang": "English or Korean",
       "url": "https://competitions.archi/competition/international-design-competition-for-pohang-museum/",
       "desc": "Competition Announcement of International Design Competition for Pohang Museum We aim to create a new cultural platform that preserves and promotes the comprehensive history of Pohang, bridging its deep roots into the fu",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "International Design Competition for the Redevelopment of the Hwamyeong Outdoor Swimming Pool",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "07/09/2026",
+      "registration": "07/09/2026",
+      "prize": "Ver site",
+      "location": "Area of 763-5, Deokcheon-dong, Buk-gu",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/international-design-competition-for-the-redevelopment-of-the-hwamyeong-outdoor-swimming-pool/",
+      "desc": "1. Competition Process This competition proceeds as a two-stage international design competition. – Stage 1: Three(3) teams will be selected through an evaluation of the applications submitted for the international desig",
       "source": "competitions.archi"
     },
     {
@@ -455,45 +481,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/best-thesis-award-2026-planning-future-cities-urbanism/",
       "desc": "Premise The Best Thesis Award 2026: Planning recognizes exceptional thesis projects focused on urban planning, regional development, spatial strategy, and future city-making. As cities continue to evolve in response to r",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "30/11/2026",
-      "prize": "Ver site",
-      "location": "All",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-nominations-dia-al-azzawi-prize-for-public-art-2026/",
-      "desc": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026 The Dia Azzawi Prize for Public Art seeks transformative permanent and temporary projects of all types, ranging from murals, sculptures, monuments, installati",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call for nominations: The Middle Eastern Architectural Personality of the Year – The Mohamed Makiya Prize for Architectu",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "30/11/2026",
-      "prize": "Ver site",
-      "location": "All",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
-      "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION!",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "30/11/2026",
-      "prize": "$9,000 (Total in Prizes)",
-      "location": "Not specified",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
-      "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
       "source": "competitions.archi"
     }
   ]
