@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-08-15T08:21:42.701324+00:00",
+  "updated_at": "2026-08-16T08:23:27.173736+00:00",
   "count": 37,
   "competitions": [
-    {
-      "title": "HEALING GARDEN – Certosa Park",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "15/08/2026",
-      "registration": "15/07/2026",
-      "prize": "7500",
-      "location": "Italy",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/healing-garden-certosa-park/",
-      "desc": "Participants are invited to design a buildable Healing Garden within the defined intervention area of Parco della Certosa. The proposal should create a landscape environment that supports biodiversity, social interaction",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Commons of Coexistence: Shared Space, Shaped for Resilience",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "15/08/2026",
-      "registration": "15/08/2026",
-      "prize": "IDR 11.8 Million",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/commons-of-coexistence-shared-space-shaped-for-resilience/",
-      "desc": "ETALASE 2026 PROUDLY PRESENTS [DESIGN COMPETITION: Communal Space] Commons of Coexistence: Shared Space, Shaped for Resilience Challenge yourself to design an adaptive communal space that responds to climate crises, drou",
-      "source": "competitions.archi"
-    },
     {
       "title": "Pivot Door Sketch Contest 2026",
       "org": "competitions.archi",
@@ -481,6 +455,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/best-thesis-award-2026-planning-future-cities-urbanism/",
       "desc": "Premise The Best Thesis Award 2026: Planning recognizes exceptional thesis projects focused on urban planning, regional development, spatial strategy, and future city-making. As cities continue to evolve in response to r",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "30/11/2026",
+      "prize": "Ver site",
+      "location": "All",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-nominations-dia-al-azzawi-prize-for-public-art-2026/",
+      "desc": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026 The Dia Azzawi Prize for Public Art seeks transformative permanent and temporary projects of all types, ranging from murals, sculptures, monuments, installati",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call for nominations: The Middle Eastern Architectural Personality of the Year – The Mohamed Makiya Prize for Architectu",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "30/11/2026",
+      "prize": "Ver site",
+      "location": "All",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
+      "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
       "source": "competitions.archi"
     }
   ]
