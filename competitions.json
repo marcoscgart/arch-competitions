@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-08-20T08:32:43.930465+00:00",
+  "updated_at": "2026-08-21T08:35:02.528086+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "Pivot Door Sketch Contest 2026",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "20/08/2026",
-      "registration": "04/05/2026",
-      "prize": "Ver site",
-      "location": "Middle East, Türkiye and rest of Asia",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/pivot-door-sketch-contest-2026/",
-      "desc": "About the contest FritsJurgens Asia’s annual design competition, Pivot Door Sketch Contest, is back. This year, entries are invited across two categories: students and professionals. We’re inviting architects, designers ",
-      "source": "competitions.archi"
-    },
     {
       "title": "KTA 2026 – Final Project Competition",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
       "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION!",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "30/11/2026",
+      "prize": "$9,000 (Total in Prizes)",
+      "location": "Not specified",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
+      "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
       "source": "competitions.archi"
     }
   ]
