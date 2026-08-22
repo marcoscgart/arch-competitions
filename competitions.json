@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-08-21T08:35:02.528086+00:00",
+  "updated_at": "2026-08-22T08:23:24.066336+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "KTA 2026 – Final Project Competition",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "21/08/2026",
-      "registration": "19/08/2026",
-      "prize": "IDR 18,000,000",
-      "location": "Anywhere",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/kta-2026-final-project-competition/",
-      "desc": "year student KTA 2026 final project competition showcasing selected works from participating universities. Serves as a benchmarking tool, separate in theme from Generative. The KTA 2026 Final Project Competition takes a ",
-      "source": "competitions.archi"
-    },
     {
       "title": "Compact Live-Work House",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
       "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Vancouver Tall Challenge",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "29/10/2026",
+      "prize": "$15,000 CAD",
+      "location": "Vancouver",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
+      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
       "source": "competitions.archi"
     }
   ]
