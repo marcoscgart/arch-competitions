@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-08-25T08:36:41.031630+00:00",
+  "updated_at": "2026-08-26T08:37:48.825370+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "Compact Live-Work House",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "25/08/2026",
-      "registration": "10/08/2026",
-      "prize": "$2000",
-      "location": "Portland USA",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/compact-live-work-house-portland-usa/",
-      "desc": "for All The Compact Live-Work House (Portland, USA) architecture competition challenges participants to design a small-scale dwelling that seamlessly combines living and working under one roof. Create an efficient, inspi",
-      "source": "competitions.archi"
-    },
     {
       "title": "(Prime) chair – 12th international industrial design competition",
       "org": "competitions.archi",
@@ -393,6 +380,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Yong Ding Chang’an Pavilion International Architectural Design Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "16/11/2026",
+      "registration": "16/11/2026",
+      "prize": "€65,000",
+      "location": "Beijing, China",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/yong-ding-changan-pavilion-international-architectural-design-competition/",
+      "desc": "Competition As an official pilot project of the 30th UIA World Congress of Architects 2029 Beijing, this open international competition targets young architects worldwide. Participants are required to design a 200 m² urb",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Reuse the Theater – Falerone",
       "org": "competitions.archi",
       "type": "conceito",
@@ -445,6 +445,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Urban Pocket Park (Barcelona, Spain) – Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "25/11/2026",
+      "registration": "20/11/2026",
+      "prize": "$2000",
+      "location": "Barcelona, Spain",
+      "lang": "English, Spanish",
+      "url": "https://competitions.archi/competition/urban-pocket-park-barcelona-spain-architecture-competition/",
+      "desc": "For All Premise In the dense urban fabric of Barcelona, small unused “interstitial” spaces represent untapped potential. This competition challenges participants to transform these neglected urban fragments into vibrant ",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026",
       "org": "competitions.archi",
       "type": "conceito",
@@ -481,19 +494,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
       "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Vancouver Tall Challenge",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "29/10/2026",
-      "prize": "$15,000 CAD",
-      "location": "Vancouver",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
-      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
       "source": "competitions.archi"
     }
   ]
