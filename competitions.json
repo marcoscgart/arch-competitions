@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-08-28T19:51:18.444365+00:00",
+  "updated_at": "2026-08-29T13:34:01.859135+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "(Prime) chair – 12th international industrial design competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "28/08/2026",
-      "registration": "28/08/2026",
-      "prize": "$1,740 (before tax)",
-      "location": "Slovenia, KoČevje",
-      "lang": "Slovenian, English",
-      "url": "https://competitions.archi/competition/prime-chair-12th-international-industrial-design-competition/",
-      "desc": "12TH INTERNATIONAL INDUSTRIAL DESIGN COMPETITION More than 500 authors from 50 countries around the world have participated in the (Prime) Chair International Competition so far. 50 chair prototypes have been created as ",
-      "source": "competitions.archi"
-    },
     {
       "title": "Architecture MasterPrize (AMP) 2026",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
       "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Vancouver Tall Challenge",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "29/10/2026",
+      "prize": "$15,000 CAD",
+      "location": "Vancouver",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
+      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
       "source": "competitions.archi"
     }
   ]
