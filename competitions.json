@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T13:29:21.973240+00:00",
+  "updated_at": "2026-08-31T15:47:26.035647+00:00",
   "count": 38,
   "competitions": [
     {
@@ -65,6 +65,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/international-design-competition-for-the-redevelopment-of-the-hwamyeong-outdoor-swimming-pool/",
       "desc": "1. Competition Process This competition proceeds as a two-stage international design competition. – Stage 1: Three(3) teams will be selected through an evaluation of the applications submitted for the international desig",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "San Sebastiano – Design Competition for the New Judicial Hub of Sassari",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "10/09/2026",
+      "registration": "10/09/2026",
+      "prize": "1700000",
+      "location": "Sassari, Sardinia, Italy",
+      "lang": "Italian",
+      "url": "https://competitions.archi/competition/san-sebastiano-design-competition-for-the-new-judicial-hub-of-sassari-2/",
+      "desc": "The former San Sebastiano prison, built in 1859 to a design by architect and engineer Giovanni Polani, occupies about 17,000 m² in the historic centre of Sassari, bounded by via Roma, via Asproni, via Cavour and via Mazz",
       "source": "competitions.archi"
     },
     {
@@ -367,6 +380,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Urban Planning Competition for the Kłodnica Boulevards in Gliwice",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "12/11/2026",
+      "registration": "12/11/2026",
+      "prize": "Ver site",
+      "location": "Gliwice",
+      "lang": "Polish",
+      "url": "https://competitions.archi/competition/urban-planning-competition-for-the-klodnica-boulevards-in-gliwice/",
+      "desc": "The City of Gliwice invites entries for a one-stage urban planning, landscape, and architectural design competition to develop a development concept for the Kłodnica Boulevards in Gliwice. The goal of the competition is ",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Yong Ding Chang’an Pavilion International Architectural Design Competition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -468,32 +494,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
       "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION!",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "30/11/2026",
-      "prize": "$9,000 (Total in Prizes)",
-      "location": "Not specified",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
-      "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Vancouver Tall Challenge",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "29/10/2026",
-      "prize": "$15,000 CAD",
-      "location": "Vancouver",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
-      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
       "source": "competitions.archi"
     }
   ]
