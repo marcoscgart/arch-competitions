@@ -1,46 +1,7 @@
 {
-  "updated_at": "2026-08-31T15:47:26.035647+00:00",
+  "updated_at": "2026-09-01T13:01:14.327032+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "Architecture MasterPrize (AMP) 2026",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "31/08/2026",
-      "registration": "31/08/2026",
-      "prize": "Ver site",
-      "location": "International",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/architecture-masterprize-amp-2026/",
-      "desc": "The Architecture MasterPrize (AMP) is recognizing excellence in architecture, interior design, landscape architecture, architectural product design, and architectural photography. The award celebrates innovative projects",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "LA PYRAMIDE Architecture Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "31/08/2026",
-      "registration": "31/08/2026",
-      "prize": "1000 Euro + free Awards",
-      "location": "Côte d'Ivoire",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/la-pyramide-architecture-competition/",
-      "desc": "for all La Pyramide: The Futuristic soul of Abidjan, Côte d’Ivoire. In the heart of Abidjan’s administrative district, La Pyramide rises as a 62-meter monument to the era of the “Ivorian Miracle.” Designed by architect R",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Architectural Essay Writing, 7th Cycle: ‘Thresholds of Movement’",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "31/08/2026",
-      "registration": "30/08/2026",
-      "prize": "Books worth 300 USD",
-      "location": "Weimar",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/architectural-essay-writing-7th-cycle-thresholds-of-movement/",
-      "desc": "and Research Architectural Essay Writing Contest, 7th Cycle is the twenty-seventh initiative of the Architectural Journalism & Criticism Organization founded by architect Pappal Suneja to spread awareness about this subj",
-      "source": "competitions.archi"
-    },
     {
       "title": "International Design Competition for Pohang Museum",
       "org": "competitions.archi",
@@ -494,6 +455,45 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
       "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION!",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "30/11/2026",
+      "prize": "$9,000 (Total in Prizes)",
+      "location": "Not specified",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
+      "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Vancouver Tall Challenge",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "29/10/2026",
+      "prize": "$15,000 CAD",
+      "location": "Vancouver",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
+      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call For Ideas: Micro Living 2026 Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "03/12/2026",
+      "registration": "06/11/2026",
+      "prize": "USD 10000",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-ideas-micro-living-2026-architecture-competition/",
+      "desc": "for All Marking a decade of pioneering global design discourse, Volume Zero is proud to announce the launch of its 29th international architecture competition: Micro Living 2026. This landmark edition marks a significant",
       "source": "competitions.archi"
     }
   ]
