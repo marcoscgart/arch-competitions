@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T12:29:34.298944+00:00",
+  "updated_at": "2026-09-03T12:32:26.313089+00:00",
   "count": 38,
   "competitions": [
     {
@@ -65,6 +65,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/forest-retreat/",
       "desc": "Design Intent & Objective Learn More Introduction Forests represent one of the most delicate and powerful ecosystems on Earth—spaces of silence, biodiversity, and deep sensory engagement. As urban life grows increasingly",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Recycled Materials Pavilion",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "18/09/2026",
+      "registration": "08/09/2026",
+      "prize": "Ver site",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/recycled-materials-pavilion/",
+      "desc": "Introduction In a world facing increasing material scarcity, climate impact, and construction waste, architecture must urgently rethink how it builds. The Recycled Materials Pavilion competition challenges designers to e",
       "source": "competitions.archi"
     },
     {
@@ -481,19 +494,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
       "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call For Ideas: Micro Living 2026 Architecture Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "03/12/2026",
-      "registration": "06/11/2026",
-      "prize": "USD 10000",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-ideas-micro-living-2026-architecture-competition/",
-      "desc": "for All Marking a decade of pioneering global design discourse, Volume Zero is proud to announce the launch of its 29th international architecture competition: Micro Living 2026. This landmark edition marks a significant",
       "source": "competitions.archi"
     }
   ]
