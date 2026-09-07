@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T11:54:42.402364+00:00",
+  "updated_at": "2026-09-07T13:55:42.311295+00:00",
   "count": 38,
   "competitions": [
     {
@@ -380,6 +380,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Minab: Architecture Beyond Consolation — For Peace and Life (International Design Competition for the Landscape and Memo",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "17/11/2026",
+      "registration": "22/10/2026",
+      "prize": "24.5 billion Rials",
+      "location": "Minab",
+      "lang": "English/Persian",
+      "url": "https://competitions.archi/competition/minab-architecture-beyond-consolation-for-peace-and-life-international-design-competition-for-the-landscape-and-memorial-space-of-the-minab-school-martyrs-cemetery/",
+      "desc": "A catastrophe unfolds in an instant, but its consequences continue through the lives of those left behind. In Minab, southern Iran, the deaths of schoolchildren and other civilians have transformed a part of the city’s m",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Reuse the Theater – Falerone",
       "org": "competitions.archi",
       "type": "conceito",
@@ -481,19 +494,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
       "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Vancouver Tall Challenge",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "29/10/2026",
-      "prize": "$15,000 CAD",
-      "location": "Vancouver",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
-      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
       "source": "competitions.archi"
     }
   ]
