@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-09-07T13:55:42.311295+00:00",
+  "updated_at": "2026-09-08T12:35:07.958215+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "International Design Competition for Pohang Museum",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "07/09/2026",
-      "registration": "20/07/2026",
-      "prize": "Winner : Awarding of Design Service Rights",
-      "location": "Pohang, Republic of Korea",
-      "lang": "English or Korean",
-      "url": "https://competitions.archi/competition/international-design-competition-for-pohang-museum/",
-      "desc": "Competition Announcement of International Design Competition for Pohang Museum We aim to create a new cultural platform that preserves and promotes the comprehensive history of Pohang, bridging its deep roots into the fu",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "International Design Competition for the Redevelopment of the Hwamyeong Outdoor Swimming Pool",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "07/09/2026",
-      "registration": "07/09/2026",
-      "prize": "Ver site",
-      "location": "Area of 763-5, Deokcheon-dong, Buk-gu",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/international-design-competition-for-the-redevelopment-of-the-hwamyeong-outdoor-swimming-pool/",
-      "desc": "1. Competition Process This competition proceeds as a two-stage international design competition. – Stage 1: Three(3) teams will be selected through an evaluation of the applications submitted for the international desig",
-      "source": "competitions.archi"
-    },
     {
       "title": "San Sebastiano – Design Competition for the New Judicial Hub of Sassari",
       "org": "competitions.archi",
@@ -494,6 +468,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
       "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Vancouver Tall Challenge",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "29/10/2026",
+      "prize": "$15,000 CAD",
+      "location": "Vancouver",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
+      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call For Ideas: Micro Living 2026 Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "03/12/2026",
+      "registration": "06/11/2026",
+      "prize": "USD 10000",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-ideas-micro-living-2026-architecture-competition/",
+      "desc": "for All Marking a decade of pioneering global design discourse, Volume Zero is proud to announce the launch of its 29th international architecture competition: Micro Living 2026. This landmark edition marks a significant",
       "source": "competitions.archi"
     }
   ]
