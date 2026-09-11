@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-09-10T12:39:36.492289+00:00",
+  "updated_at": "2026-09-11T12:32:46.528942+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "San Sebastiano – Design Competition for the New Judicial Hub of Sassari",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "10/09/2026",
-      "registration": "10/09/2026",
-      "prize": "1700000",
-      "location": "Sassari, Sardinia, Italy",
-      "lang": "Italian",
-      "url": "https://competitions.archi/competition/san-sebastiano-design-competition-for-the-new-judicial-hub-of-sassari-2/",
-      "desc": "The former San Sebastiano prison, built in 1859 to a design by architect and engineer Giovanni Polani, occupies about 17,000 m² in the historic centre of Sassari, bounded by via Roma, via Asproni, via Cavour and via Mazz",
-      "source": "competitions.archi"
-    },
     {
       "title": "NIDOS DE AGUA Competition",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-ideas-micro-living-2026-architecture-competition/",
       "desc": "for All Marking a decade of pioneering global design discourse, Volume Zero is proud to announce the launch of its 29th international architecture competition: Micro Living 2026. This landmark edition marks a significant",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call For Ideas: Unbox 2026 Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "03/12/2026",
+      "registration": "06/11/2026",
+      "prize": "USD 10000",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-ideas-unbox-2026-architecture-competition/",
+      "desc": "for All As Volume Zero celebrates a decade of shaping global architectural discourse, we are proud to introduce our 30th international architecture competition THE UNBOX 2026: a call to rethink the “DNA” of our shared en",
       "source": "competitions.archi"
     }
   ]
