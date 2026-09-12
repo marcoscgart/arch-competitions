@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-09-11T12:32:46.528942+00:00",
+  "updated_at": "2026-09-12T11:56:26.643350+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "NIDOS DE AGUA Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "11/09/2026",
-      "registration": "11/09/2026",
-      "prize": "8.000 €",
-      "location": "Valencia",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/nidos-de-agua-competition/",
-      "desc": "Terraviva launches NIDOS DE AGUA, a new international architecture competition that invites participants to design a microarchitecture pavilion immersed in the wetland landscape of La Albufera Natural Park – Valencia. Pr",
-      "source": "competitions.archi"
-    },
     {
       "title": "Forest Retreat",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-ideas-unbox-2026-architecture-competition/",
       "desc": "for All As Volume Zero celebrates a decade of shaping global architectural discourse, we are proud to introduce our 30th international architecture competition THE UNBOX 2026: a call to rethink the “DNA” of our shared en",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "THE CIVIC KIOSK Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "04/12/2026",
+      "registration": "04/12/2026",
+      "prize": "8,000 $",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-civic-kiosk-competition/",
+      "desc": "Terraviva launches THE CIVIC KIOSK, a new international architecture competition that invites participants to redesign the traditional kiosk, redefining its function, appearance and relationship with public space. Prizes",
       "source": "competitions.archi"
     }
   ]
