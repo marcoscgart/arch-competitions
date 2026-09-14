@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T13:04:13.445649+00:00",
-  "count": 38,
+  "updated_at": "2026-09-14T14:40:53.628113+00:00",
+  "count": 39,
   "competitions": [
     {
       "title": "Forest Retreat",
@@ -26,6 +26,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/recycled-materials-pavilion/",
       "desc": "Introduction In a world facing increasing material scarcity, climate impact, and construction waste, architecture must urgently rethink how it builds. The Recycled Materials Pavilion competition challenges designers to e",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "National Open Competition for Architecture, Urbanism, and Landscape Architecture for the UFC Center for Arts, Culture, a",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "21/09/2026",
+      "registration": "06/10/2026",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/national-open-competition-for-architecture-urbanism-and-landscape-architecture-for-the-ufc-center-for-arts-culture-and-events/",
+      "desc": "The Federal University of Ceará (UFC), in partnership with the Institute of Architects of Brazil – Ceará Department (IAB/CE), has launched the National Public Competition for Architecture, Urbanism, and Landscape Design ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call for Proposals II: Experimental Research Project at Monitor P, Casa dell’Architettura of Rome",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "24/09/2026",
+      "registration": "24/09/2026",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-proposals-ii-experimental-research-project-at-monitor-p-casa-dellarchitettura-of-rome/",
+      "desc": "Casa dell’Architettura of Rome announces the second edition of CONTEMPORANEA Call for Proposal (October–December 2026), with the aim of supporting original research and reflections in the field of contemporary architectu",
       "source": "competitions.archi"
     },
     {
@@ -55,6 +81,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "UNFOLD 2027: Call for Design Schools to Showcase at Milan Design Week",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "25/09/2026",
+      "registration": "25/09/2026",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/unfold-2027-call-for-design-schools-to-showcase-at-milan-design-week/",
+      "desc": "Domus Academy opens the Call for Participation for UNFOLD 2027, the fourth edition of its international project competition for design schools and institutions, taking place during Milan Design Week, 12–18 April 2027. Fo",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Situér Milano Competition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -65,6 +104,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/situer-milano-competition/",
       "desc": "Terraviva launches SITUER MILANO, a new competition developed in collaboration with the design brand of the same name, challenging architects and designers to conceive a coordinated furniture collection structured around",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Living Places – Simon Architecture Prize 6th edition: 2026",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "05/10/2026",
+      "registration": "05/09/2026",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/living-places-simon-architecture-prize-6th-edition-2026/",
+      "desc": "The Living Places – Simon Architecture Prize, an initiative of Simon developed by Fundació Mies van der Rohe, has the aim of distinguishing excellent architecture that enhance spaces’ capacity for adaptation, seeking the",
       "source": "competitions.archi"
     },
     {
@@ -94,6 +146,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Vertical Farm Tower",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "10/10/2026",
+      "registration": "30/09/2026",
+      "prize": "Ver site",
+      "location": "Global4",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/vertical-farm-tower/",
+      "desc": "Introduction Rapid urbanization, climate instability, and food supply disruptions demand new ways of producing food closer to where people live. Vertical farming has emerged as a promising solution—integrating agricultur",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Linha do Horizonte",
       "org": "competitions.archi",
       "type": "conceito",
@@ -120,6 +185,32 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Floating Research Station",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "12/10/2026",
+      "registration": "02/10/2026",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/floating-research-station/",
+      "desc": "Introduction Rising sea levels, melting ice caps, marine pollution, and fragile aquatic ecosystems have made water bodies the new frontiers of scientific exploration. The Floating Research Station competition challenges ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Riverfront Promenade",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "14/10/2026",
+      "registration": "04/10/2026",
+      "prize": "Ver site",
+      "location": "Global",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/riverfront-promenade/",
+      "desc": "Introduction Rivers have historically shaped cities—acting as lifelines for culture, commerce, ecology, and public life. Yet many urban riverfronts today remain underutilized, inaccessible, or disconnected from everyday ",
+      "source": "competitions.archi"
+    },
+    {
       "title": "International Sustainable Building Competition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -133,6 +224,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "L A M P International Lighting Design Competition 2026",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "15/10/2026",
+      "registration": "15/10/2026",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/l-a-m-p-international-lighting-design-competition-2026/",
+      "desc": "Sparking innovation in illumination since 2013, L A M P is a small, independent organization dedicated to championing emerging talent and connecting designers to new markets in lighting design. Every submission fee and s",
+      "source": "competitions.archi"
+    },
+    {
       "title": "RUINAS DE QUILMES Competition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -143,6 +247,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/ruinas-de-quilmes-competition/",
       "desc": "Terraviva launches RUINAS DE QUILMES, a new international architecture competition that invites participants to reimagine the Sacred City of Quilmes (Argentina) as a contemporary Open-Air Museum, through a system of land",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Smart Housing for Aging Population",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "16/10/2026",
+      "registration": "06/10/2026",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/smart-housing-for-aging-population/",
+      "desc": "Introduction The global population is aging at an unprecedented rate, creating an urgent need for housing that goes beyond shelter—homes that actively support health, independence, dignity, and social connection. Smart H",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Future Food Lab",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "18/10/2026",
+      "registration": "08/10/2026",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/future-food-lab/",
+      "desc": "Introduction As the global population grows and climate challenges intensify, the way we produce, distribute, and consume food must radically evolve. Architecture has a critical role to play in shaping resilient, efficie",
       "source": "competitions.archi"
     },
     {
@@ -172,6 +302,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "2026 Fall 2×8 Exhibition and Scholarship Program",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "19/10/2026",
+      "registration": "14/09/2026",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/2026-fall-2x8-exhibition-and-scholarship-program/",
+      "desc": "WHAT IS 2X8? 2×8 is an annual student exhibition and scholarship program that brings together selected work from schools across California and connects emerging designers to the Architecture, Engineering, and Constructio",
+      "source": "competitions.archi"
+    },
+    {
       "title": "VILLA GIOIA Competition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -195,6 +338,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-ideas-tiny-house-2026-architecture-competition/",
       "desc": "for All A Home is a space that is intimate to all of us. It goes beyond an everyday function of being a physical shelter for people and their activities; a home connects with its users at a personal and emotional level. ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The International Garden Festival Launches its Call for Projects for the 2027 Edition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "27/10/2026",
+      "registration": "27/10/2026",
+      "prize": "27 000",
+      "location": "Canada",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-international-garden-festival-launches-its-call-for-projects-for-the-2027-edition/",
+      "desc": "for Projects Until October 27, 2026: Landscape architects, architects, artists, and multidisciplinary teams from all over the world are invited to propose projects for the gardens that will shape the 28th edition of the ",
       "source": "competitions.archi"
     },
     {
@@ -315,6 +471,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "The Social hub 2.0 : Re-imagining community spaces",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "12/11/2026",
+      "registration": "10/11/2026",
+      "prize": "INR 20000",
+      "location": "Global",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-social-hub-2-0-re-imagining-community-spaces/",
+      "desc": "to all architecture students The Social Hub 2.0 – Reimagining Community Spaces The Social Hub 2.0 is an international architecture and design competition that invites students to reimagine socio-cultural spaces that fost",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Yong Ding Chang’an Pavilion International Architectural Design Competition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -338,162 +507,6 @@
       "lang": "English/Persian",
       "url": "https://competitions.archi/competition/minab-architecture-beyond-consolation-for-peace-and-life-international-design-competition-for-the-landscape-and-memorial-space-of-the-minab-school-martyrs-cemetery/",
       "desc": "A catastrophe unfolds in an instant, but its consequences continue through the lives of those left behind. In Minab, southern Iran, the deaths of schoolchildren and other civilians have transformed a part of the city’s m",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Reuse the Theater – Falerone",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "19/11/2026",
-      "registration": "19/11/2026",
-      "prize": "5000€",
-      "location": "Falerone, Marche",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/reuse-the-theater-falerone/",
-      "desc": "The Roman Theatre of Falerio Picenus, located along the Tenna river in Falerone (Marche), stands as a monumental remnant of classical engineering. Erected between the late Augustan era and the principate of Tiberius, the",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Jabal Umm Nuthaylah International Site Design Ideas Competition Launches Global Call",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "23/11/2026",
-      "registration": "20/08/2026",
-      "prize": "USD 430,000",
-      "location": "Jabal Umm Nuthaylah",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/madinah-international-architecture-festival-2026/",
-      "desc": "The Jabal Umm Nuthaylah International Site Design Ideas Competition invites architects, landscape architects, urban designers, and multidisciplinary teams from around the world to reimagine one of Madinah’s most remarkab",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Best Thesis Award 2026: Architecture — Global Excellence Recognition",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "25/11/2026",
-      "registration": "25/11/2026",
-      "prize": "Recognition, Media Exposure, Certificate",
-      "location": "Worldwide",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/best-thesis-award-2026-architecture-global-excellence-recognition/",
-      "desc": "for Students (Final Year, Recent Graduates since 2025) 10% Fees Waived with Coupon “NF7FJ8N9” Premise The Best Thesis Award 2026: Architecture celebrates the most innovative architectural thesis projects developed by stu",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Best Thesis Award 2026: Planning – Future Cities & Urbanism",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "25/11/2026",
-      "registration": "25/11/2026",
-      "prize": "Ver site",
-      "location": "Worldwide",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/best-thesis-award-2026-planning-future-cities-urbanism/",
-      "desc": "Premise The Best Thesis Award 2026: Planning recognizes exceptional thesis projects focused on urban planning, regional development, spatial strategy, and future city-making. As cities continue to evolve in response to r",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Urban Pocket Park (Barcelona, Spain) – Architecture Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "25/11/2026",
-      "registration": "20/11/2026",
-      "prize": "$2000",
-      "location": "Barcelona, Spain",
-      "lang": "English, Spanish",
-      "url": "https://competitions.archi/competition/urban-pocket-park-barcelona-spain-architecture-competition/",
-      "desc": "For All Premise In the dense urban fabric of Barcelona, small unused “interstitial” spaces represent untapped potential. This competition challenges participants to transform these neglected urban fragments into vibrant ",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "30/11/2026",
-      "prize": "Ver site",
-      "location": "All",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-nominations-dia-al-azzawi-prize-for-public-art-2026/",
-      "desc": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026 The Dia Azzawi Prize for Public Art seeks transformative permanent and temporary projects of all types, ranging from murals, sculptures, monuments, installati",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call for nominations: The Middle Eastern Architectural Personality of the Year – The Mohamed Makiya Prize for Architectu",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "30/11/2026",
-      "prize": "Ver site",
-      "location": "All",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
-      "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION!",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "30/11/2026",
-      "prize": "$9,000 (Total in Prizes)",
-      "location": "Not specified",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
-      "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Vancouver Tall Challenge",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "29/10/2026",
-      "prize": "$15,000 CAD",
-      "location": "Vancouver",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
-      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call For Ideas: Micro Living 2026 Architecture Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "03/12/2026",
-      "registration": "06/11/2026",
-      "prize": "USD 10000",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-ideas-micro-living-2026-architecture-competition/",
-      "desc": "for All Marking a decade of pioneering global design discourse, Volume Zero is proud to announce the launch of its 29th international architecture competition: Micro Living 2026. This landmark edition marks a significant",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call For Ideas: Unbox 2026 Architecture Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "03/12/2026",
-      "registration": "06/11/2026",
-      "prize": "USD 10000",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-ideas-unbox-2026-architecture-competition/",
-      "desc": "for All As Volume Zero celebrates a decade of shaping global architectural discourse, we are proud to introduce our 30th international architecture competition THE UNBOX 2026: a call to rethink the “DNA” of our shared en",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "THE CIVIC KIOSK Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "04/12/2026",
-      "registration": "04/12/2026",
-      "prize": "8,000 $",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/the-civic-kiosk-competition/",
-      "desc": "Terraviva launches THE CIVIC KIOSK, a new international architecture competition that invites participants to redesign the traditional kiosk, redefining its function, appearance and relationship with public space. Prizes",
       "source": "competitions.archi"
     }
   ]
