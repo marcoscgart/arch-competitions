@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-09-15T13:05:32.959178+00:00",
+  "updated_at": "2026-09-16T13:03:46.256286+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "Forest Retreat",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "15/09/2026",
-      "registration": "06/09/2026",
-      "prize": "Ver site",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/forest-retreat/",
-      "desc": "Design Intent & Objective Learn More Introduction Forests represent one of the most delicate and powerful ecosystems on Earth—spaces of silence, biodiversity, and deep sensory engagement. As urban life grows increasingly",
-      "source": "competitions.archi"
-    },
     {
       "title": "Recycled Materials Pavilion",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/the-social-hub-2-0-re-imagining-community-spaces/",
       "desc": "to all architecture students The Social Hub 2.0 – Reimagining Community Spaces The Social Hub 2.0 is an international architecture and design competition that invites students to reimagine socio-cultural spaces that fost",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Yong Ding Chang’an Pavilion International Architectural Design Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "16/11/2026",
+      "registration": "16/11/2026",
+      "prize": "€65,000",
+      "location": "Beijing, China",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/yong-ding-changan-pavilion-international-architectural-design-competition/",
+      "desc": "Competition As an official pilot project of the 30th UIA World Congress of Architects 2029 Beijing, this open international competition targets young architects worldwide. Participants are required to design a 200 m² urb",
       "source": "competitions.archi"
     }
   ]
