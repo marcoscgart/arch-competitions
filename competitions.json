@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-09-18T12:39:15.665966+00:00",
+  "updated_at": "2026-09-19T12:14:28.752734+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "Recycled Materials Pavilion",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "18/09/2026",
-      "registration": "08/09/2026",
-      "prize": "Ver site",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/recycled-materials-pavilion/",
-      "desc": "Introduction In a world facing increasing material scarcity, climate impact, and construction waste, architecture must urgently rethink how it builds. The Recycled Materials Pavilion competition challenges designers to e",
-      "source": "competitions.archi"
-    },
     {
       "title": "National Open Competition for Architecture, Urbanism, and Landscape Architecture for the UFC Center for Arts, Culture, a",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/yong-ding-changan-pavilion-international-architectural-design-competition/",
       "desc": "Competition As an official pilot project of the 30th UIA World Congress of Architects 2029 Beijing, this open international competition targets young architects worldwide. Participants are required to design a 200 m² urb",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Minab: Architecture Beyond Consolation — For Peace and Life (International Design Competition for the Landscape and Memo",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "17/11/2026",
+      "registration": "22/10/2026",
+      "prize": "24.5 billion Rials",
+      "location": "Minab",
+      "lang": "English/Persian",
+      "url": "https://competitions.archi/competition/minab-architecture-beyond-consolation-for-peace-and-life-international-design-competition-for-the-landscape-and-memorial-space-of-the-minab-school-martyrs-cemetery/",
+      "desc": "A catastrophe unfolds in an instant, but its consequences continue through the lives of those left behind. In Minab, southern Iran, the deaths of schoolchildren and other civilians have transformed a part of the city’s m",
       "source": "competitions.archi"
     }
   ]
