@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-09-21T14:48:05.353788+00:00",
+  "updated_at": "2026-09-22T13:02:18.277127+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "National Open Competition for Architecture, Urbanism, and Landscape Architecture for the UFC Center for Arts, Culture, a",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "21/09/2026",
-      "registration": "06/10/2026",
-      "prize": "Ver site",
-      "location": "concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/national-open-competition-for-architecture-urbanism-and-landscape-architecture-for-the-ufc-center-for-arts-culture-and-events/",
-      "desc": "The Federal University of Ceará (UFC), in partnership with the Institute of Architects of Brazil – Ceará Department (IAB/CE), has launched the National Public Competition for Architecture, Urbanism, and Landscape Design ",
-      "source": "competitions.archi"
-    },
     {
       "title": "Call for Proposals II: Experimental Research Project at Monitor P, Casa dell’Architettura of Rome",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English/Persian",
       "url": "https://competitions.archi/competition/minab-architecture-beyond-consolation-for-peace-and-life-international-design-competition-for-the-landscape-and-memorial-space-of-the-minab-school-martyrs-cemetery/",
       "desc": "A catastrophe unfolds in an instant, but its consequences continue through the lives of those left behind. In Minab, southern Iran, the deaths of schoolchildren and other civilians have transformed a part of the city’s m",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Reuse the Theater – Falerone",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "19/11/2026",
+      "registration": "19/11/2026",
+      "prize": "5000€",
+      "location": "Falerone, Marche",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/reuse-the-theater-falerone/",
+      "desc": "The Roman Theatre of Falerio Picenus, located along the Tenna river in Falerone (Marche), stands as a monumental remnant of classical engineering. Erected between the late Augustan era and the principate of Tiberius, the",
       "source": "competitions.archi"
     }
   ]
