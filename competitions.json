@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-09-24T13:07:24.987862+00:00",
+  "updated_at": "2026-09-25T13:12:50.816106+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "Call for Proposals II: Experimental Research Project at Monitor P, Casa dell’Architettura of Rome",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "24/09/2026",
-      "registration": "24/09/2026",
-      "prize": "Ver site",
-      "location": "concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-proposals-ii-experimental-research-project-at-monitor-p-casa-dellarchitettura-of-rome/",
-      "desc": "Casa dell’Architettura of Rome announces the second edition of CONTEMPORANEA Call for Proposal (October–December 2026), with the aim of supporting original research and reflections in the field of contemporary architectu",
-      "source": "competitions.archi"
-    },
     {
       "title": "SA PIZZEDDA Competition",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/reuse-the-theater-falerone/",
       "desc": "The Roman Theatre of Falerio Picenus, located along the Tenna river in Falerone (Marche), stands as a monumental remnant of classical engineering. Erected between the late Augustan era and the principate of Tiberius, the",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call for Papers Dearq 50: Architectures that Linger",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "22/11/2026",
+      "registration": "22/11/2026",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-papers-dearq-50-architectures-that-linger/",
+      "desc": "There is a way of dwelling that seeks not to impose itself, but to endure, a way of dwelling that, in response to the accelerated rhythms of contemporary life, creates space for contemplation, exploration, experience, an",
       "source": "competitions.archi"
     }
   ]
