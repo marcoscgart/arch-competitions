@@ -1,46 +1,7 @@
 {
-  "updated_at": "2026-09-25T13:12:50.816106+00:00",
+  "updated_at": "2026-09-26T12:38:15.993509+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "SA PIZZEDDA Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "25/09/2026",
-      "registration": "25/09/2026",
-      "prize": "8,000 €",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/sa-pizzedda-competition/",
-      "desc": "Terraviva launches SA PIZZEDDA, a new design competition developed in collaboration with the fast-grow-ing Sardinian pizzeria brand, challenging designers and creatives to redefine its visual identity and shape its futur",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Courtyard House (Marrakech, Morocco) – Architecture Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "25/09/2026",
-      "registration": "10/06/2026",
-      "prize": "Recognition, Media Exposure, Certificate",
-      "location": "Marrakech, Morocco",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/courtyard-house-marrakech-morocco-architecture-competition/",
-      "desc": "for All OVERVIEW This competition challenges architects and designers to redefine the traditional Moroccan courtyard house (riad) for contemporary living. Proposals must design a sustainable, single-family residence in M",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "UNFOLD 2027: Call for Design Schools to Showcase at Milan Design Week",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "25/09/2026",
-      "registration": "25/09/2026",
-      "prize": "Ver site",
-      "location": "concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/unfold-2027-call-for-design-schools-to-showcase-at-milan-design-week/",
-      "desc": "Domus Academy opens the Call for Participation for UNFOLD 2027, the fourth edition of its international project competition for design schools and institutions, taking place during Milan Design Week, 12–18 April 2027. Fo",
-      "source": "competitions.archi"
-    },
     {
       "title": "Situér Milano Competition",
       "org": "competitions.archi",
@@ -494,6 +455,45 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-papers-dearq-50-architectures-that-linger/",
       "desc": "There is a way of dwelling that seeks not to impose itself, but to endure, a way of dwelling that, in response to the accelerated rhythms of contemporary life, creates space for contemplation, exploration, experience, an",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Jabal Umm Nuthaylah International Site Design Ideas Competition Launches Global Call",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "23/11/2026",
+      "registration": "20/08/2026",
+      "prize": "USD 430,000",
+      "location": "Jabal Umm Nuthaylah",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/madinah-international-architecture-festival-2026/",
+      "desc": "The Jabal Umm Nuthaylah International Site Design Ideas Competition invites architects, landscape architects, urban designers, and multidisciplinary teams from around the world to reimagine one of Madinah’s most remarkab",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Best Thesis Award 2026: Architecture — Global Excellence Recognition",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "25/11/2026",
+      "registration": "25/11/2026",
+      "prize": "Recognition, Media Exposure, Certificate",
+      "location": "Worldwide",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/best-thesis-award-2026-architecture-global-excellence-recognition/",
+      "desc": "for Students (Final Year, Recent Graduates since 2025) 10% Fees Waived with Coupon “NF7FJ8N9” Premise The Best Thesis Award 2026: Architecture celebrates the most innovative architectural thesis projects developed by stu",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Best Thesis Award 2026: Planning – Future Cities & Urbanism",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "25/11/2026",
+      "registration": "25/11/2026",
+      "prize": "Ver site",
+      "location": "Worldwide",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/best-thesis-award-2026-planning-future-cities-urbanism/",
+      "desc": "Premise The Best Thesis Award 2026: Planning recognizes exceptional thesis projects focused on urban planning, regional development, spatial strategy, and future city-making. As cities continue to evolve in response to r",
       "source": "competitions.archi"
     }
   ]
