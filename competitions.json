@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-09-28T16:24:16.386803+00:00",
+  "updated_at": "2026-09-29T14:34:11.822382+00:00",
   "count": 38,
   "competitions": [
-    {
-      "title": "Design Competition for the regeneration of the former San Sebastiano Prison in Sassari, Italy",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "28/09/2026",
-      "registration": "28/09/2026",
-      "prize": "2 million",
-      "location": "Italy",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/design-competition-for-the-regeneration-of-the-former-san-sebastiano-prison-in-sassari-italy/",
-      "desc": "competition The Italian State Property Agency (Agenzia del Demanio) has launched an international Design Competition for the regeneration of the former San Sebastiano Prison in Sassari, Italy, and we would appreciate you",
-      "source": "competitions.archi"
-    },
     {
       "title": "Situér Milano Competition",
       "org": "competitions.archi",
@@ -494,6 +481,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/madinah-international-architecture-festival-2026/",
       "desc": "The Jabal Umm Nuthaylah International Site Design Ideas Competition invites architects, landscape architects, urban designers, and multidisciplinary teams from around the world to reimagine one of Madinah’s most remarkab",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Best Thesis Award 2026: Architecture — Global Excellence Recognition",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "25/11/2026",
+      "registration": "25/11/2026",
+      "prize": "Recognition, Media Exposure, Certificate",
+      "location": "Worldwide",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/best-thesis-award-2026-architecture-global-excellence-recognition/",
+      "desc": "for Students (Final Year, Recent Graduates since 2025) 10% Fees Waived with Coupon “NF7FJ8N9” Premise The Best Thesis Award 2026: Architecture celebrates the most innovative architectural thesis projects developed by stu",
       "source": "competitions.archi"
     }
   ]
