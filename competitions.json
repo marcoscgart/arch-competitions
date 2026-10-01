@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T14:32:51.530828+00:00",
-  "count": 38,
+  "updated_at": "2026-10-01T15:02:31.597980+00:00",
+  "count": 41,
   "competitions": [
     {
       "title": "Situér Milano Competition",
@@ -494,6 +494,45 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/best-thesis-award-2026-architecture-global-excellence-recognition/",
       "desc": "for Students (Final Year, Recent Graduates since 2025) 10% Fees Waived with Coupon “NF7FJ8N9” Premise The Best Thesis Award 2026: Architecture celebrates the most innovative architectural thesis projects developed by stu",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Best Thesis Award 2026: Planning – Future Cities & Urbanism",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "25/11/2026",
+      "registration": "25/11/2026",
+      "prize": "Ver site",
+      "location": "Worldwide",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/best-thesis-award-2026-planning-future-cities-urbanism/",
+      "desc": "Premise The Best Thesis Award 2026: Planning recognizes exceptional thesis projects focused on urban planning, regional development, spatial strategy, and future city-making. As cities continue to evolve in response to r",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Urban Pocket Park (Barcelona, Spain) – Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "25/11/2026",
+      "registration": "20/11/2026",
+      "prize": "$2000",
+      "location": "Barcelona, Spain",
+      "lang": "English, Spanish",
+      "url": "https://competitions.archi/competition/urban-pocket-park-barcelona-spain-architecture-competition/",
+      "desc": "For All Premise In the dense urban fabric of Barcelona, small unused “interstitial” spaces represent untapped potential. This competition challenges participants to transform these neglected urban fragments into vibrant ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "30/11/2026",
+      "prize": "Ver site",
+      "location": "All",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-nominations-dia-al-azzawi-prize-for-public-art-2026/",
+      "desc": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026 The Dia Azzawi Prize for Public Art seeks transformative permanent and temporary projects of all types, ranging from murals, sculptures, monuments, installati",
       "source": "competitions.archi"
     }
   ]
