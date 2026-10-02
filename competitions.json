@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T15:02:31.597980+00:00",
+  "updated_at": "2026-10-02T14:24:42.517622+00:00",
   "count": 41,
   "competitions": [
     {
@@ -432,6 +432,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Bute Park Art Gallery Design Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "16/11/2026",
+      "registration": "20/10/2026",
+      "prize": "GBP 1000",
+      "location": "Cardiff, Wales, United Kingdom",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/bute-park-art-gallery-design-competition/",
+      "desc": "We are pleased to announce the launch of our theoretical free-to-enter Art Gallery Design Competition. The competition offers a £1,000 first prize, with three Honourable Mentions receiving a sponsor’s prize pack. Partici",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Minab: Architecture Beyond Consolation — For Peace and Life (International Design Competition for the Landscape and Memo",
       "org": "competitions.archi",
       "type": "conceito",
@@ -520,19 +533,6 @@
       "lang": "English, Spanish",
       "url": "https://competitions.archi/competition/urban-pocket-park-barcelona-spain-architecture-competition/",
       "desc": "For All Premise In the dense urban fabric of Barcelona, small unused “interstitial” spaces represent untapped potential. This competition challenges participants to transform these neglected urban fragments into vibrant ",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "30/11/2026",
-      "prize": "Ver site",
-      "location": "All",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-nominations-dia-al-azzawi-prize-for-public-art-2026/",
-      "desc": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026 The Dia Azzawi Prize for Public Art seeks transformative permanent and temporary projects of all types, ranging from murals, sculptures, monuments, installati",
       "source": "competitions.archi"
     }
   ]
