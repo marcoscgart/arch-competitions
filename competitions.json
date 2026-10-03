@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-10-02T14:24:42.517622+00:00",
+  "updated_at": "2026-10-03T13:00:05.120634+00:00",
   "count": 41,
   "competitions": [
-    {
-      "title": "Situér Milano Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "02/10/2026",
-      "registration": "02/10/2026",
-      "prize": "€7.000",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/situer-milano-competition/",
-      "desc": "Terraviva launches SITUER MILANO, a new competition developed in collaboration with the design brand of the same name, challenging architects and designers to conceive a coordinated furniture collection structured around",
-      "source": "competitions.archi"
-    },
     {
       "title": "Living Places – Simon Architecture Prize 6th edition: 2026",
       "org": "competitions.archi",
@@ -533,6 +520,19 @@
       "lang": "English, Spanish",
       "url": "https://competitions.archi/competition/urban-pocket-park-barcelona-spain-architecture-competition/",
       "desc": "For All Premise In the dense urban fabric of Barcelona, small unused “interstitial” spaces represent untapped potential. This competition challenges participants to transform these neglected urban fragments into vibrant ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "30/11/2026",
+      "prize": "Ver site",
+      "location": "All",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-nominations-dia-al-azzawi-prize-for-public-art-2026/",
+      "desc": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026 The Dia Azzawi Prize for Public Art seeks transformative permanent and temporary projects of all types, ranging from murals, sculptures, monuments, installati",
       "source": "competitions.archi"
     }
   ]
