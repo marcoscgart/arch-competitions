@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-10-05T16:44:43.995663+00:00",
+  "updated_at": "2026-10-06T14:41:52.442742+00:00",
   "count": 41,
   "competitions": [
-    {
-      "title": "Living Places – Simon Architecture Prize 6th edition: 2026",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "05/10/2026",
-      "registration": "05/09/2026",
-      "prize": "Ver site",
-      "location": "concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/living-places-simon-architecture-prize-6th-edition-2026/",
-      "desc": "The Living Places – Simon Architecture Prize, an initiative of Simon developed by Fundació Mies van der Rohe, has the aim of distinguishing excellent architecture that enhance spaces’ capacity for adaptation, seeking the",
-      "source": "competitions.archi"
-    },
     {
       "title": "International Architecture and Landscape Design Competition – Capital City Cemetery of Pristina",
       "org": "competitions.archi",
@@ -533,6 +520,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-nominations-dia-al-azzawi-prize-for-public-art-2026/",
       "desc": "Call for nominations: Dia al-Azzawi Prize for Public Art 2026 The Dia Azzawi Prize for Public Art seeks transformative permanent and temporary projects of all types, ranging from murals, sculptures, monuments, installati",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call for nominations: The Middle Eastern Architectural Personality of the Year – The Mohamed Makiya Prize for Architectu",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "30/11/2026",
+      "prize": "Ver site",
+      "location": "All",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
+      "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
       "source": "competitions.archi"
     }
   ]
