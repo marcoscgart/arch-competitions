@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-10-06T14:41:52.442742+00:00",
+  "updated_at": "2026-10-07T15:01:29.034430+00:00",
   "count": 41,
   "competitions": [
-    {
-      "title": "International Architecture and Landscape Design Competition – Capital City Cemetery of Pristina",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "06/10/2026",
-      "registration": "06/10/2026",
-      "prize": "Ver site",
-      "location": "Pristina, Republic of Kosovo",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/international-architecture-and-landscape-design-competition-capital-city-cemetery-of-pristina/",
-      "desc": "The Capital City of Pristina invites architects, landscape architects and multidisciplinary design teams from around the world to participate in the International Architecture and Landscape Design Competition for the Cap",
-      "source": "competitions.archi"
-    },
     {
       "title": "CALL OF THE SEA Competition",
       "org": "competitions.archi",
@@ -533,6 +520,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
       "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION!",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "30/11/2026",
+      "prize": "$9,000 (Total in Prizes)",
+      "location": "Not specified",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
+      "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
       "source": "competitions.archi"
     }
   ]
