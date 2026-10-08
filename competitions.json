@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T15:01:29.034430+00:00",
+  "updated_at": "2026-10-08T15:09:57.386846+00:00",
   "count": 41,
   "competitions": [
     {
@@ -208,6 +208,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-ideas-tiny-house-2026-architecture-competition/",
       "desc": "for All A Home is a space that is intimate to all of us. It goes beyond an everyday function of being a physical shelter for people and their activities; a home connects with its users at a personal and emotional level. ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "WDC Busan 2028 Pavilion International Design Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "26/10/2026",
+      "registration": "26/10/2026",
+      "prize": "Ver site",
+      "location": "Busan, South Korea",
+      "lang": "Korean/English",
+      "url": "https://competitions.archi/competition/wdc-busan-2028-pavilion-international-design-competition/",
+      "desc": "International Design Competition Busan Metropolitan City and Design Council Busan invite international designers and creative professionals to participate in the WDC Busan 2028 Pavilion International Design Competition. ",
       "source": "competitions.archi"
     },
     {
@@ -520,19 +533,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
       "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION!",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/11/2026",
-      "registration": "30/11/2026",
-      "prize": "$9,000 (Total in Prizes)",
-      "location": "Not specified",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
-      "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
       "source": "competitions.archi"
     }
   ]
