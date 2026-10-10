@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-10-09T14:55:16.118716+00:00",
+  "updated_at": "2026-10-10T14:10:47.892720+00:00",
   "count": 41,
   "competitions": [
-    {
-      "title": "CALL OF THE SEA Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "09/10/2026",
-      "registration": "09/10/2026",
-      "prize": "8,000 $",
-      "location": "Indonesia",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-of-the-sea-competition/",
-      "desc": "Terraviva launches CALL OF THE SEA, a new international architecture competition that invites participants to design a small-scale overwater accommodation within the incredible village of Torosiaje, Indonesia.",
-      "source": "competitions.archi"
-    },
     {
       "title": "Vertical Farm Tower",
       "org": "competitions.archi",
@@ -533,6 +520,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/call-for-nominations-the-middle-eastern-architectural-personality-of-the-year-the-mohamed-makiya-prize-for-architecture-2026/",
       "desc": "The Mohamed Makiya Prize is open to individuals and organisations that promoted, encouraged, campaigned, or influenced directly or indirectly the advancement of architecture in the Middle East. The prize focuses on recen",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "CPDI AFRICA 2026 INTERNATIONAL DESIGN COMPETITION!",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "30/11/2026",
+      "prize": "$9,000 (Total in Prizes)",
+      "location": "Not specified",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
+      "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
       "source": "competitions.archi"
     }
   ]
