@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-10-10T14:10:47.892720+00:00",
+  "updated_at": "2026-10-11T14:35:37.459364+00:00",
   "count": 41,
   "competitions": [
-    {
-      "title": "Vertical Farm Tower",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "10/10/2026",
-      "registration": "30/09/2026",
-      "prize": "Ver site",
-      "location": "Global4",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/vertical-farm-tower/",
-      "desc": "Introduction Rapid urbanization, climate instability, and food supply disruptions demand new ways of producing food closer to where people live. Vertical farming has emerged as a promising solution—integrating agricultur",
-      "source": "competitions.archi"
-    },
     {
       "title": "Linha do Horizonte",
       "org": "competitions.archi",
@@ -533,6 +520,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/cpdi-africa-2026-international-design-competition/",
       "desc": "The CPDI Africa 2026 International Design Competition A global call to develop new architectural languages for Africa and the Diaspora that celebrate modern ethnic identities in the built environment. The competition aim",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Vancouver Tall Challenge",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/11/2026",
+      "registration": "29/10/2026",
+      "prize": "$15,000 CAD",
+      "location": "Vancouver",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
+      "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
       "source": "competitions.archi"
     }
   ]
