@@ -1,46 +1,7 @@
 {
-  "updated_at": "2026-10-12T17:18:10.799700+00:00",
-  "count": 41,
+  "updated_at": "2026-10-13T15:31:46.619885+00:00",
+  "count": 42,
   "competitions": [
-    {
-      "title": "Linha do Horizonte",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "12/10/2026",
-      "registration": "30/09/2026",
-      "prize": "Pool prize 20.500 €",
-      "location": "Cidade Velha, Santiago, Cape Verde",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/linha-do-horizonte/",
-      "desc": "to all PREMISE Cape Verde occupies a unique position at the crossroads of Africa, Europe and the Atlantic. Across its islands, centuries of migrations and exchanges have shaped a layered cultural identity and a landscape",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Concursos AG360: Floating Table",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "12/10/2026",
-      "registration": "27/09/2026",
-      "prize": "US $ 66.00",
-      "location": "Quintana Roo - México",
-      "lang": "Spanish",
-      "url": "https://competitions.archi/competition/concursos-ag360-floating-table/",
-      "desc": "to any architect or architecture student A floating gastronomic pavilion will be designed to become a new symbol of the lagoon, where architecture and landscape merge into one. More than simply designing a conventional r",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Floating Research Station",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "12/10/2026",
-      "registration": "02/10/2026",
-      "prize": "Ver site",
-      "location": "concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/floating-research-station/",
-      "desc": "Introduction Rising sea levels, melting ice caps, marine pollution, and fragile aquatic ecosystems have made water bodies the new frontiers of scientific exploration. The Floating Research Station competition challenges ",
-      "source": "competitions.archi"
-    },
     {
       "title": "Riverfront Promenade",
       "org": "competitions.archi",
@@ -533,6 +494,58 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/vancouver-tall-challenge/",
       "desc": "Vancouver is recognized around the world for its unique balance between urban density, livability, and nature. Framed by mountains and the Pacific coastline, the city has developed a distinct approach to city-building th",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call For Ideas: Micro Living 2026 Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "03/12/2026",
+      "registration": "06/11/2026",
+      "prize": "USD 10000",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-ideas-micro-living-2026-architecture-competition/",
+      "desc": "for All Marking a decade of pioneering global design discourse, Volume Zero is proud to announce the launch of its 29th international architecture competition: Micro Living 2026. This landmark edition marks a significant",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Call For Ideas: Unbox 2026 Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "03/12/2026",
+      "registration": "06/11/2026",
+      "prize": "USD 10000",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/call-for-ideas-unbox-2026-architecture-competition/",
+      "desc": "for All As Volume Zero celebrates a decade of shaping global architectural discourse, we are proud to introduce our 30th international architecture competition THE UNBOX 2026: a call to rethink the “DNA” of our shared en",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "THE CIVIC KIOSK Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "04/12/2026",
+      "registration": "04/12/2026",
+      "prize": "8,000 $",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-civic-kiosk-competition/",
+      "desc": "Terraviva launches THE CIVIC KIOSK, a new international architecture competition that invites participants to redesign the traditional kiosk, redefining its function, appearance and relationship with public space. Prizes",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Rural Housing II",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "11/12/2026",
+      "registration": "11/12/2026",
+      "prize": "10,000 €",
+      "location": "Pavia",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/rural-housing-ii/",
+      "desc": "Terraviva launches RURAL HOUSING II, a new international architecture competition that invites participants to reimagine a former Lombard stable as two contemporary homes through a sensitive adaptive reuse intervention… ",
       "source": "competitions.archi"
     }
   ]
