@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-10-14T13:16:50.613519+00:00",
+  "updated_at": "2026-10-15T13:02:18.289549+00:00",
   "count": 42,
   "competitions": [
-    {
-      "title": "Riverfront Promenade",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "14/10/2026",
-      "registration": "04/10/2026",
-      "prize": "Ver site",
-      "location": "Global",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/riverfront-promenade/",
-      "desc": "Introduction Rivers have historically shaped cities—acting as lifelines for culture, commerce, ecology, and public life. Yet many urban riverfronts today remain underutilized, inaccessible, or disconnected from everyday ",
-      "source": "competitions.archi"
-    },
     {
       "title": "International Sustainable Building Competition",
       "org": "competitions.archi",
@@ -546,6 +533,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/rural-housing-ii/",
       "desc": "Terraviva launches RURAL HOUSING II, a new international architecture competition that invites participants to reimagine a former Lombard stable as two contemporary homes through a sensitive adaptive reuse intervention… ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The 3-Element Challenge",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "11/12/2026",
+      "registration": "31/10/2026",
+      "prize": "$100 USD — 1st Place: $50 | 2nd Place: $30 | 3rd Place: $20",
+      "location": "Worldwide / Online",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-3-element-challenge/",
+      "desc": "International Design Competition The 3-Element Challenge is the first design competition by Morphology Lab. Participants are challenged to create an architectural proposal using only three elements. These elements may be",
       "source": "competitions.archi"
     }
   ]
