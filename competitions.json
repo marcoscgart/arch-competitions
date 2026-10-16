@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-10-15T13:02:18.289549+00:00",
-  "count": 42,
+  "updated_at": "2026-10-16T12:59:11.484105+00:00",
+  "count": 41,
   "competitions": [
-    {
-      "title": "International Sustainable Building Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "15/10/2026",
-      "registration": "15/10/2026",
-      "prize": "Certificate of Honour",
-      "location": "Antalya, Türkiye",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/international-sustainable-building-competition/",
-      "desc": "Free The International Sustainable Building Competition will be held at COP31 and will be open to participants from all countries, with the aim to promote energy-efficient, low-carbon, climate-resilient, and sustainable ",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "L A M P International Lighting Design Competition 2026",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "15/10/2026",
-      "registration": "15/10/2026",
-      "prize": "Ver site",
-      "location": "concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/l-a-m-p-international-lighting-design-competition-2026/",
-      "desc": "Sparking innovation in illumination since 2013, L A M P is a small, independent organization dedicated to championing emerging talent and connecting designers to new markets in lighting design. Every submission fee and s",
-      "source": "competitions.archi"
-    },
     {
       "title": "RUINAS DE QUILMES Competition",
       "org": "competitions.archi",
@@ -546,6 +520,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/the-3-element-challenge/",
       "desc": "International Design Competition The 3-Element Challenge is the first design competition by Morphology Lab. Participants are challenged to create an architectural proposal using only three elements. These elements may be",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "House of Poetry",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "16/12/2026",
+      "registration": "13/12/2026",
+      "prize": "15,000 €",
+      "location": "the house of poet Dino Campana",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/house-of-poetry/",
+      "desc": "In the peaceful silence of the Tuscan-Romagnol Apennines, where knobby chestnut branches intertwine towards the sky while streams and waterfalls wind across the ground, a small cluster of houses emerges from a quiet hill",
       "source": "competitions.archi"
     }
   ]
