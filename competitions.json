@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-10-16T12:59:11.484105+00:00",
+  "updated_at": "2026-10-17T11:56:38.188021+00:00",
   "count": 41,
   "competitions": [
-    {
-      "title": "RUINAS DE QUILMES Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "16/10/2026",
-      "registration": "16/10/2026",
-      "prize": "up to 9.000 $",
-      "location": "Argentina",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/ruinas-de-quilmes-competition/",
-      "desc": "Terraviva launches RUINAS DE QUILMES, a new international architecture competition that invites participants to reimagine the Sacred City of Quilmes (Argentina) as a contemporary Open-Air Museum, through a system of land",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Smart Housing for Aging Population",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "16/10/2026",
-      "registration": "06/10/2026",
-      "prize": "Ver site",
-      "location": "concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/smart-housing-for-aging-population/",
-      "desc": "Introduction The global population is aging at an unprecedented rate, creating an urgent need for housing that goes beyond shelter—homes that actively support health, independence, dignity, and social connection. Smart H",
-      "source": "competitions.archi"
-    },
     {
       "title": "Future Food Lab",
       "org": "competitions.archi",
@@ -533,6 +507,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/house-of-poetry/",
       "desc": "In the peaceful silence of the Tuscan-Romagnol Apennines, where knobby chestnut branches intertwine towards the sky while streams and waterfalls wind across the ground, a small cluster of houses emerges from a quiet hill",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Community Workshop Pavilion — Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/12/2026",
+      "registration": "20/12/2026",
+      "prize": "Overall Winner (x1) Runners Up (x4)",
+      "location": "International",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/community-workshop-pavilion-architecture-competition/",
+      "desc": "For All Premise ——- In an era increasingly dominated by digital interaction and “throwaway” consumerism, the physical act of making, repairing, and sharing skills has become a radical act of community building. Many urba",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "DRWNGS Open Call: Architectural Drawings",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "31/12/2026",
+      "registration": "31/12/2026",
+      "prize": "Ver site",
+      "location": "New York, United States",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/drwngs-open-call-architectural-drawings/",
+      "desc": "Call for all drawing submissions! DRWNGS is an ever-growing curated archive dedicated to architectural drawings. We are looking for drawings of all kinds, including plans, sections, elevations, perspectives, axonometrics",
       "source": "competitions.archi"
     }
   ]
