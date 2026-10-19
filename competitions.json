@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-10-18T12:24:42.651308+00:00",
+  "updated_at": "2026-10-19T15:14:14.179067+00:00",
   "count": 41,
   "competitions": [
-    {
-      "title": "Future Food Lab",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "18/10/2026",
-      "registration": "08/10/2026",
-      "prize": "Ver site",
-      "location": "concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/future-food-lab/",
-      "desc": "Introduction As the global population grows and climate challenges intensify, the way we produce, distribute, and consume food must radically evolve. Architecture has a critical role to play in shaping resilient, efficie",
-      "source": "competitions.archi"
-    },
     {
       "title": "Pavilion Atlas 2026",
       "org": "competitions.archi",
@@ -328,6 +315,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Figures of Architecture",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "22/11/2026",
+      "registration": "22/11/2026",
+      "prize": "$2500",
+      "location": "Toronto, Canada",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/figures-of-architecture/",
+      "desc": "Architecture is often understood through finished buildings. “Figures of Architecture” asks students to look closer at the things that make architecture possible: the materials, assemblies, and methods that are often con",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Jabal Umm Nuthaylah International Site Design Ideas Competition Launches Global Call",
       "org": "competitions.archi",
       "type": "conceito",
@@ -497,6 +497,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "CartesianForms: Reimagined Architecture",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "13/12/2026",
+      "registration": "06/12/2026",
+      "prize": "120,000 USD total prize & benefit value",
+      "location": "International (online)",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/cartesianforms-reimagined-architecture/",
+      "desc": "(Professional and Student categories) CartesianForms: Architecture Reimagined is a global AI design competition by FORMAS.AI in partnership with PAACADEMY and Parametric Architecture, sponsored by OpenAI. Choose a 50 × 5",
+      "source": "competitions.archi"
+    },
+    {
       "title": "House of Poetry",
       "org": "competitions.archi",
       "type": "conceito",
@@ -510,29 +523,16 @@
       "source": "competitions.archi"
     },
     {
-      "title": "Community Workshop Pavilion — Architecture Competition",
+      "title": "Architecture International Contest: Cappadocia Oasis",
       "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/12/2026",
-      "registration": "20/12/2026",
-      "prize": "Overall Winner (x1) Runners Up (x4)",
-      "location": "International",
+      "type": "estudantil",
+      "deadline": "22/12/2026",
+      "registration": "09/12/2026",
+      "prize": "US $ 68.00",
+      "location": "Red Valley, Cappadocia, Türkiye",
       "lang": "English",
-      "url": "https://competitions.archi/competition/community-workshop-pavilion-architecture-competition/",
-      "desc": "For All Premise ——- In an era increasingly dominated by digital interaction and “throwaway” consumerism, the physical act of making, repairing, and sharing skills has become a radical act of community building. Many urba",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "DRWNGS Open Call: Architectural Drawings",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "31/12/2026",
-      "registration": "31/12/2026",
-      "prize": "Ver site",
-      "location": "New York, United States",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/drwngs-open-call-architectural-drawings/",
-      "desc": "Call for all drawing submissions! DRWNGS is an ever-growing curated archive dedicated to architectural drawings. We are looking for drawings of all kinds, including plans, sections, elevations, perspectives, axonometrics",
+      "url": "https://competitions.archi/competition/architecture-international-contest-cappadocia-oasis/",
+      "desc": "to any architect or architecture student A teahouse experience will be created in Cappadocia that connects visitors to the landscape through relaxation, gastronomy, and contemplation. Cappadocia Oasis is envisioned as a ",
       "source": "competitions.archi"
     }
   ]
