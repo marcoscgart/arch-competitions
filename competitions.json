@@ -1,46 +1,7 @@
 {
-  "updated_at": "2026-10-19T15:14:14.179067+00:00",
-  "count": 41,
+  "updated_at": "2026-10-20T13:16:07.356254+00:00",
+  "count": 42,
   "competitions": [
-    {
-      "title": "Pavilion Atlas 2026",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "19/10/2026",
-      "registration": "16/09/2026",
-      "prize": "20,000 €",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/pavilion-atlas-2026/",
-      "desc": "Every place carries a story — not just of its past, but of its present values and future possibilities. Architecture can give form to those stories, offering a way to express culture, ideas, and identity without relying ",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Underbridge #2",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "19/10/2026",
-      "registration": "17/09/2026",
-      "prize": "8,000 €",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/underbridge-2/",
-      "desc": "As cities expand, vertical and horizontal spaces are continually redefined, adapting to the pressing demands of urban living. Yet, beneath the expanse of our infrastructure lies a matrix of underutilized spaces, often ov",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "2026 Fall 2×8 Exhibition and Scholarship Program",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "19/10/2026",
-      "registration": "14/09/2026",
-      "prize": "Ver site",
-      "location": "concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/2026-fall-2x8-exhibition-and-scholarship-program/",
-      "desc": "WHAT IS 2X8? 2×8 is an annual student exhibition and scholarship program that brings together selected work from schools across California and connects emerging designers to the Architecture, Engineering, and Constructio",
-      "source": "competitions.archi"
-    },
     {
       "title": "VILLA GIOIA Competition",
       "org": "competitions.archi",
@@ -533,6 +494,58 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/architecture-international-contest-cappadocia-oasis/",
       "desc": "to any architect or architecture student A teahouse experience will be created in Cappadocia that connects visitors to the landscape through relaxation, gastronomy, and contemplation. Cappadocia Oasis is envisioned as a ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Community Workshop Pavilion — Architecture Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/12/2026",
+      "registration": "20/12/2026",
+      "prize": "Overall Winner (x1) Runners Up (x4)",
+      "location": "International",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/community-workshop-pavilion-architecture-competition/",
+      "desc": "For All Premise ——- In an era increasingly dominated by digital interaction and “throwaway” consumerism, the physical act of making, repairing, and sharing skills has become a radical act of community building. Many urba",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "DRWNGS Open Call: Architectural Drawings",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "31/12/2026",
+      "registration": "31/12/2026",
+      "prize": "Ver site",
+      "location": "New York, United States",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/drwngs-open-call-architectural-drawings/",
+      "desc": "Call for all drawing submissions! DRWNGS is an ever-growing curated archive dedicated to architectural drawings. We are looking for drawings of all kinds, including plans, sections, elevations, perspectives, axonometrics",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "House of the future",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "31/12/2026",
+      "registration": "30/11/2026",
+      "prize": "USD 10000",
+      "location": "Saudi Arabia",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/house-of-the-future/",
+      "desc": "As Saudi Arabia continues its remarkable transformation, The House of the Future competition invites architects, designers, and visionaries from around the world to imagine the next generation of Saudi homes. Participant",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The Architect’s Chair #6 – Stockholm Furniture Fair Edition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "05/01/2027",
+      "registration": "03/12/2026",
+      "prize": "8,000 € + Exhibition",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-architects-chair-6-stockholm-furniture-fair-edition/",
+      "desc": "Introducing the sixth Architect’s Chair competition, an exciting opportunity for architects and designers to showcase their creativity, versatility, and design vision through the creation of a signature piece of furnitur",
       "source": "competitions.archi"
     }
   ]
