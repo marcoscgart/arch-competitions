@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T13:16:07.356254+00:00",
-  "count": 42,
+  "updated_at": "2026-10-21T13:22:57.479350+00:00",
+  "count": 43,
   "competitions": [
     {
       "title": "VILLA GIOIA Competition",
@@ -546,6 +546,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/the-architects-chair-6-stockholm-furniture-fair-edition/",
       "desc": "Introducing the sixth Architect’s Chair competition, an exciting opportunity for architects and designers to showcase their creativity, versatility, and design vision through the creation of a signature piece of furnitur",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Portugal Long Table Restaurant",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "11/01/2027",
+      "registration": "09/12/2026",
+      "prize": "10,000 €",
+      "location": "Portugal",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/portugal-long-table-restaurant/",
+      "desc": "Buildner invites architects, designers, and creative thinkers to take part in the Portugal Long Table Restaurant competition, exploring how architecture can shape shared experiences around food, place, and time. Set in t",
       "source": "competitions.archi"
     }
   ]
