@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-10-23T13:02:07.823139+00:00",
+  "updated_at": "2026-10-24T12:25:10.604743+00:00",
   "count": 43,
   "competitions": [
-    {
-      "title": "VILLA GIOIA Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "23/10/2026",
-      "registration": "23/10/2026",
-      "prize": "10,000 €",
-      "location": "Italy",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/villa-gioia-competition/",
-      "desc": "Terraviva launches VILLA GIOIA, a new international architecture competition that invites participants to transform a historic Italian estate near Lake Garda, into a contemporary retirement residence.",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call For Ideas: Tiny House 2026 Architecture Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "23/10/2026",
-      "registration": "15/07/2026",
-      "prize": "USD 5000",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-ideas-tiny-house-2026-architecture-competition/",
-      "desc": "for All A Home is a space that is intimate to all of us. It goes beyond an everyday function of being a physical shelter for people and their activities; a home connects with its users at a personal and emotional level. ",
-      "source": "competitions.archi"
-    },
     {
       "title": "WDC Busan 2028 Pavilion International Design Competition",
       "org": "competitions.archi",
@@ -536,6 +510,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Art Book Publication: A New Perspective",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "31/12/2026",
+      "registration": "15/01/2027",
+      "prize": "Art Book Publication",
+      "location": "International (Online)",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/art-book-publication-a-new-perspective/",
+      "desc": "THE SPACE 101 is looking for artists to be part of our upcoming art book project, ‘A New Contemporary: Featured Artists’. This curated publication aims to bring together a diverse cohort of global creators who broaden th",
+      "source": "competitions.archi"
+    },
+    {
       "title": "The Architect’s Chair #6 – Stockholm Furniture Fair Edition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -559,6 +546,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/portugal-long-table-restaurant/",
       "desc": "Buildner invites architects, designers, and creative thinkers to take part in the Portugal Long Table Restaurant competition, exploring how architecture can shape shared experiences around food, place, and time. Set in t",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The New York High Falls Riverfront Market",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "18/01/2027",
+      "registration": "10/12/2026",
+      "prize": "10,000 USD",
+      "location": "New York",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-new-york-high-falls-riverfront-market/",
+      "desc": "The New York High Falls Riverfront Market competition invites architects, designers, and creative thinkers to imagine a new civic destination within the evolving landscape of Rochester’s future High Falls State Park. Loc",
       "source": "competitions.archi"
     }
   ]
