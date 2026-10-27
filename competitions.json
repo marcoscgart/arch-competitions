@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-10-26T14:47:56.153985+00:00",
+  "updated_at": "2026-10-27T13:53:31.384252+00:00",
   "count": 43,
   "competitions": [
-    {
-      "title": "WDC Busan 2028 Pavilion International Design Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "26/10/2026",
-      "registration": "26/10/2026",
-      "prize": "Ver site",
-      "location": "Busan, South Korea",
-      "lang": "Korean/English",
-      "url": "https://competitions.archi/competition/wdc-busan-2028-pavilion-international-design-competition/",
-      "desc": "International Design Competition Busan Metropolitan City and Design Council Busan invite international designers and creative professionals to participate in the WDC Busan 2028 Pavilion International Design Competition. ",
-      "source": "competitions.archi"
-    },
     {
       "title": "The International Garden Festival Launches its Call for Projects for the 2027 Edition",
       "org": "competitions.archi",
@@ -559,6 +546,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/the-new-york-high-falls-riverfront-market/",
       "desc": "The New York High Falls Riverfront Market competition invites architects, designers, and creative thinkers to imagine a new civic destination within the evolving landscape of Rochester’s future High Falls State Park. Loc",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The Architecture of Play 2026-2027",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "20/01/2027",
+      "registration": "05/01/2027",
+      "prize": "INR 50K",
+      "location": "Online",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-architecture-of-play-2026-2027/",
+      "desc": "The Architecture of Play 2026–27 is a kindergarten design challenge that asks participants to rethink how architecture can shape the way children learn, play, explore, and interact. Designed for children aged 3–6, the co",
       "source": "competitions.archi"
     }
   ]
