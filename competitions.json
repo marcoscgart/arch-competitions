@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-10-29T14:54:32.308264+00:00",
-  "count": 42,
+  "updated_at": "2026-10-30T14:46:37.033183+00:00",
+  "count": 41,
   "competitions": [
-    {
-      "title": "Designaddvance 2026: Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "29/10/2026",
-      "registration": "23/10/2026",
-      "prize": "Cash prize for top 3 winners",
-      "location": "India",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/designaddvance-2026-beyond-the-mall-rethinking-retail-landscapes-as-urban-public-space/",
-      "desc": "& PG Students and Young Professionals Beyond the Mall: Rethinking Retail Landscapes as Urban Public Space Designaddvance 2026 invites participants to reimagine retail architecture as a civic catalyst – a place where comm",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Phygital HORECA Experience Design",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "29/10/2026",
-      "registration": "29/10/2026",
-      "prize": "€5000",
-      "location": "Online",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/phygital-horeca-experience-design/",
-      "desc": "A leading international coffee producer, together with Desall, invites you to research the most innovative phygital interaction models currently available on the market, including through fieldwork in HORECA venues. The ",
-      "source": "competitions.archi"
-    },
     {
       "title": "Tactical Urbanism NOW! Competition",
       "org": "competitions.archi",
@@ -546,6 +520,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/the-architecture-of-play-2026-2027/",
       "desc": "The Architecture of Play 2026–27 is a kindergarten design challenge that asks participants to rethink how architecture can shape the way children learn, play, explore, and interact. Designed for children aged 3–6, the co",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "SCHRODINGER’S ROOM – Edition #3",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "25/01/2027",
+      "registration": "19/01/2027",
+      "prize": "Ver site",
+      "location": "concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/schrodingers-room-edition-3/",
+      "desc": "Schrödinger’s Room is an international conceptual architecture competition inviting architects, designers, and creatives to design a space capable of generating different perceptions, meanings, and experiences. Inspired ",
       "source": "competitions.archi"
     }
   ]
