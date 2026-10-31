@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-10-30T14:46:37.033183+00:00",
+  "updated_at": "2026-10-31T14:15:13.059522+00:00",
   "count": 41,
   "competitions": [
-    {
-      "title": "Tactical Urbanism NOW! Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/10/2026",
-      "registration": "30/10/2026",
-      "prize": "10,000 $",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/tactical-urbanism-now-competition-terraviva/",
-      "desc": "Terraviva launches TACTICAL URBANISM NOW!, a new edition of the international competition that challenges participants to design tactical interventions that prototype new ways of adapting public spaces to everyday urban ",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Open Call: Architectural Haiku Writing Contest, 4th Cycle: Architecture and Memories",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "30/10/2026",
-      "registration": "29/10/2026",
-      "prize": "Ver site",
-      "location": "-",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/open-call-architectural-haiku-writing-contest-4th-cycle-architecture-and-memories/",
-      "desc": "Architectural Haiku Writing Contest, 4th Cycle is the twenty-eighth initiative of the Architectural Journalism & Criticism Organization, founded by architect Pappal Suneja to spread awareness about this subject and sow t",
-      "source": "competitions.archi"
-    },
     {
       "title": "Sayembara Desain Arsitektur & Beasiswa Balitecture 2026",
       "org": "competitions.archi",
@@ -533,6 +507,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/schrodingers-room-edition-3/",
       "desc": "Schrödinger’s Room is an international conceptual architecture competition inviting architects, designers, and creatives to design a space capable of generating different perceptions, meanings, and experiences. Inspired ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "DIGITAL NOMAD VILLAGE",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "27/01/2027",
+      "registration": "19/01/2027",
+      "prize": "Ver site",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/digital-nomad-village/",
+      "desc": "DIGITAL NOMAD VILLAGE From Temporary Stay to Meaningful Community digital nomad village competition, remote work community design, co living co working architecture, nomad housing design competition, sustainable lifestyl",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Small Museum Pavilion (Copenhagen, Denmark)",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "30/01/2027",
+      "registration": "20/01/2027",
+      "prize": "Overall Winner (x1) Runners Up (x4)",
+      "location": "Copenhagen, Denmark",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/small-museum-pavilion-copenhagen-denmark/",
+      "desc": "For All Premise Traditional museums often stand as inward-facing monuments disconnected from daily civic life. This competition calls for a decentralized, nimble micro-institution — an intimate, open pavilion that democr",
       "source": "competitions.archi"
     }
   ]
