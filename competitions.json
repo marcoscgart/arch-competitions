@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-11-01T14:41:30.800066+00:00",
+  "updated_at": "2026-11-02T17:44:50.525901+00:00",
   "count": 41,
   "competitions": [
-    {
-      "title": "Memorial to the Sixth Extinction – Design Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "01/11/2026",
-      "registration": "01/11/2026",
-      "prize": "$15000",
-      "location": "Perth - Western Australia",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/memorial-to-the-sixth-extinction-design-competition-run-by-university-of-western-australia-the-australian-urban-design-research-centre-and-tcl/",
-      "desc": "International Ideas Competition There have been five major extinction events in Earth’s history, the fifth being the obliteration of the dinosaurs by an asteroid some 65 million years ago. For many plant and animal speci",
-      "source": "competitions.archi"
-    },
     {
       "title": "€100,000 Prize / Kingspan MICROHOME 2026",
       "org": "competitions.archi",
@@ -533,6 +520,19 @@
       "lang": "English or Bulgarian",
       "url": "https://competitions.archi/competition/international-competition-for-a-new-academic-wing-of-18-comprehensive-school-william-gladstone-sofia-bulgaria/",
       "desc": "On October 5, an open international architectural competition is officially announced, with the goal of developing a concept design for a new academic wing at 18 Comprehensive School “William Gladstone” – one of the olde",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The Valli Wine Tasting Room",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "15/02/2027",
+      "registration": "14/01/2027",
+      "prize": "10,000 €",
+      "location": "Italy",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-vali-wine-tasting-room/",
+      "desc": "The Valli Wine Tasting Room competition invites architects and designers to propose a contemporary tasting space for Valli Unite, an agricultural cooperative located in the rural hills of Piedmont, northern Italy. The co",
       "source": "competitions.archi"
     }
   ]
