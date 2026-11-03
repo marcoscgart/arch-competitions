@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-11-02T17:44:50.525901+00:00",
+  "updated_at": "2026-11-03T15:46:32.246204+00:00",
   "count": 41,
   "competitions": [
-    {
-      "title": "€100,000 Prize / Kingspan MICROHOME 2026",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "02/11/2026",
-      "registration": "30/09/2026",
-      "prize": "100,000 €",
-      "location": "Concept",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/e100000-prize-kingspan-microhome-2026/",
-      "desc": "The Kingspan MICROHOME 2026 continues Buildner’s long-standing exploration of compact living and sustainable design. Now in its 11th edition, and marking the fourth collaboration with Kingspan, the competition challenges",
-      "source": "competitions.archi"
-    },
     {
       "title": "THE STUDENTS APARTMENT Competition",
       "org": "competitions.archi",
@@ -533,6 +520,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/the-vali-wine-tasting-room/",
       "desc": "The Valli Wine Tasting Room competition invites architects and designers to propose a contemporary tasting space for Valli Unite, an agricultural cooperative located in the rural hills of Piedmont, northern Italy. The co",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The Quiet Tower",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "15/02/2027",
+      "registration": "13/01/2027",
+      "prize": "10,000 €",
+      "location": "Livonian Coast",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-quiet-tower/",
+      "desc": "The Quiet Tower competition takes place on Latvia’s remote Baltic coastline near Cape Kolka — a landscape of forests, dunes, sea winds, and small villages shaped by nature and seasonal change. Located along the historic ",
       "source": "competitions.archi"
     }
   ]
