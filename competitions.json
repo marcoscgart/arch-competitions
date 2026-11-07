@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-11-06T15:37:36.284334+00:00",
-  "count": 41,
+  "updated_at": "2026-11-07T14:38:01.401460+00:00",
+  "count": 42,
   "competitions": [
-    {
-      "title": "THE STUDENTS APARTMENT Competition",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "06/11/2026",
-      "registration": "06/11/2026",
-      "prize": "8,000 €",
-      "location": "Pavia",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/the-students-apartment-competition/",
-      "desc": "Terraviva launches THE STUDENTS APARTMENT, a new international architecture competition that invites participants to transform an apartment in the historic centre of Pavia into a contemporary living space tailored to uni",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Call for Entries: Open Chair International Design Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "06/11/2026",
-      "registration": "22/10/2026",
-      "prize": "1000 GBP",
-      "location": "n/a",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/call-for-entries-open-chair-international-design-competition/",
-      "desc": "Competition - Paid A Global Design Competition, in Partnership with Aibuild Open Chair is a global ideas competition inviting architects, designers, makers, engineers, and creative thinkers to reimagine one of the oldest",
-      "source": "competitions.archi"
-    },
     {
       "title": "Urban Planning Competition for the Kłodnica Boulevards in Gliwice",
       "org": "competitions.archi",
@@ -458,6 +432,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Architecture Portfolio Challenge 2026",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "10/01/2027",
+      "registration": "30/11/2026",
+      "prize": "USD 2,500 total prize pool",
+      "location": "International (online)",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/architecture-portfolio-challenge-2026/",
+      "desc": "students and graduates Build a portfolio that works beyond the classroom. The Architecture Portfolio Challenge 2026, the second edition of the competition by Architerrax, invites architecture students and emerging design",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Portugal Long Table Restaurant",
       "org": "competitions.archi",
       "type": "conceito",
@@ -533,6 +520,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/small-museum-pavilion-copenhagen-denmark/",
       "desc": "For All Premise Traditional museums often stand as inward-facing monuments disconnected from daily civic life. This competition calls for a decentralized, nimble micro-institution — an intimate, open pavilion that democr",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "International Competition for a New Academic Wing of 18. Comprehensive School “William Gladstone” – Sofia, Bulgaria",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "01/02/2027",
+      "registration": "27/01/2027",
+      "prize": "First place - €30,000; Second place - €20,000; Third place - €10,000",
+      "location": "68 \"Pirotska\" street, Sofia, Bulgaria",
+      "lang": "English or Bulgarian",
+      "url": "https://competitions.archi/competition/international-competition-for-a-new-academic-wing-of-18-comprehensive-school-william-gladstone-sofia-bulgaria/",
+      "desc": "On October 5, an open international architectural competition is officially announced, with the goal of developing a concept design for a new academic wing at 18 Comprehensive School “William Gladstone” – one of the olde",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The Valli Wine Tasting Room",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "15/02/2027",
+      "registration": "14/01/2027",
+      "prize": "10,000 €",
+      "location": "Italy",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-vali-wine-tasting-room/",
+      "desc": "The Valli Wine Tasting Room competition invites architects and designers to propose a contemporary tasting space for Valli Unite, an agricultural cooperative located in the rural hills of Piedmont, northern Italy. The co",
       "source": "competitions.archi"
     }
   ]
