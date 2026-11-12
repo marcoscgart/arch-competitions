@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:48:55.536766+00:00",
+  "updated_at": "2026-11-12T16:31:02.792270+00:00",
   "count": 42,
   "competitions": [
     {
@@ -536,16 +536,16 @@
       "source": "competitions.archi"
     },
     {
-      "title": "The Valli Wine Tasting Room",
+      "title": "SKY TO MOON Competition",
       "org": "competitions.archi",
       "type": "conceito",
-      "deadline": "15/02/2027",
-      "registration": "14/01/2027",
-      "prize": "10,000 €",
-      "location": "Italy",
+      "deadline": "05/02/2027",
+      "registration": "05/02/2027",
+      "prize": "12.000 €",
+      "location": "Lucanian Apennines",
       "lang": "English",
-      "url": "https://competitions.archi/competition/the-vali-wine-tasting-room/",
-      "desc": "The Valli Wine Tasting Room competition invites architects and designers to propose a contemporary tasting space for Valli Unite, an agricultural cooperative located in the rural hills of Piedmont, northern Italy. The co",
+      "url": "https://competitions.archi/competition/sky-to-moon-competition/",
+      "desc": "Terraviva launches SKY TO MOON, an international architecture competition seeking ideas for a new Fly Line in southern Italy, creating an accessible experience that connects landscape, adventure and the existing tourism ",
       "source": "competitions.archi"
     }
   ]
