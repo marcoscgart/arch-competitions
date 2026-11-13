@@ -1,33 +1,7 @@
 {
-  "updated_at": "2026-11-12T16:31:02.792270+00:00",
+  "updated_at": "2026-11-13T15:53:03.195170+00:00",
   "count": 42,
   "competitions": [
-    {
-      "title": "Urban Planning Competition for the Kłodnica Boulevards in Gliwice",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "12/11/2026",
-      "registration": "12/11/2026",
-      "prize": "Ver site",
-      "location": "Gliwice",
-      "lang": "Polish",
-      "url": "https://competitions.archi/competition/urban-planning-competition-for-the-klodnica-boulevards-in-gliwice/",
-      "desc": "The City of Gliwice invites entries for a one-stage urban planning, landscape, and architectural design competition to develop a development concept for the Kłodnica Boulevards in Gliwice. The goal of the competition is ",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "The Social hub 2.0 : Re-imagining community spaces",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "12/11/2026",
-      "registration": "10/11/2026",
-      "prize": "INR 20000",
-      "location": "Global",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/the-social-hub-2-0-re-imagining-community-spaces/",
-      "desc": "to all architecture students The Social Hub 2.0 – Reimagining Community Spaces The Social Hub 2.0 is an international architecture and design competition that invites students to reimagine socio-cultural spaces that fost",
-      "source": "competitions.archi"
-    },
     {
       "title": "Krystal Design Award Graduation Competition",
       "org": "competitions.archi",
@@ -276,6 +250,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "2027 Seoul International Garden Show – International Show Garden Design Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "09/12/2026",
+      "registration": "10/11/2026",
+      "prize": ".",
+      "location": "Seoul, South Korea",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/2027-seoul-international-garden-show-international-show-garden-design-competition/",
+      "desc": "Landscape Design Competition The Seoul Metropolitan Government invites garden designers, landscape architects, and creative professionals from around the world to participate in the 2027 Seoul International Garden Show –",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Rural Housing II",
       "org": "competitions.archi",
       "type": "conceito",
@@ -415,6 +402,19 @@
       "location": "International (Online)",
       "lang": "English",
       "url": "https://competitions.archi/competition/art-book-publication-a-new-perspective/",
+      "desc": "THE SPACE 101 is looking for artists to be part of our upcoming art book project, ‘A New Contemporary: Featured Artists’. This curated publication aims to bring together a diverse cohort of global creators who broaden th",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "2027 Art Book Publication: A New Perspective",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "31/12/2026",
+      "registration": "15/01/2027",
+      "prize": "Publication",
+      "location": "Remote",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/2027-art-book-publication-a-new-perspective/",
       "desc": "THE SPACE 101 is looking for artists to be part of our upcoming art book project, ‘A New Contemporary: Featured Artists’. This curated publication aims to bring together a diverse cohort of global creators who broaden th",
       "source": "competitions.archi"
     },
