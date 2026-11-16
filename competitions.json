@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-11-15T15:16:07.013069+00:00",
-  "count": 42,
+  "updated_at": "2026-11-16T17:51:26.912209+00:00",
+  "count": 44,
   "competitions": [
-    {
-      "title": "Krystal Design Award Graduation Competition",
-      "org": "competitions.archi",
-      "type": "archviz",
-      "deadline": "15/11/2026",
-      "registration": "15/11/2026",
-      "prize": "10,000 USD + 10 Internships + Free D5 Render",
-      "location": "World-Wide",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/krystal-design-award-graduation-competition-3/",
-      "desc": "and bachelors students - Architecture_Urban design_Interior_Landscape design Krystal Design Award Graduation Competition is officially open for submissions.💎 $10,000 Pool Prize. 10 paid internships. D5 Render Pro Version",
-      "source": "competitions.archi"
-    },
     {
       "title": "Yong Ding Chang’an Pavilion International Architectural Design Competition",
       "org": "competitions.archi",
@@ -546,6 +533,45 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/sky-to-moon-competition/",
       "desc": "Terraviva launches SKY TO MOON, an international architecture competition seeking ideas for a new Fly Line in southern Italy, creating an accessible experience that connects landscape, adventure and the existing tourism ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The Valli Wine Tasting Room",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "15/02/2027",
+      "registration": "14/01/2027",
+      "prize": "10,000 €",
+      "location": "Italy",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-vali-wine-tasting-room/",
+      "desc": "The Valli Wine Tasting Room competition invites architects and designers to propose a contemporary tasting space for Valli Unite, an agricultural cooperative located in the rural hills of Piedmont, northern Italy. The co",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The Quiet Tower",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "15/02/2027",
+      "registration": "13/01/2027",
+      "prize": "10,000 €",
+      "location": "Livonian Coast",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-quiet-tower/",
+      "desc": "The Quiet Tower competition takes place on Latvia’s remote Baltic coastline near Cape Kolka — a landscape of forests, dunes, sea winds, and small villages shaped by nature and seasonal change. Located along the historic ",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "San Sebastiano – Design Competition for the New Judicial Hub of SassarI",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "19/02/2027",
+      "registration": "19/02/2027",
+      "prize": "2.206.318,97",
+      "location": "Sassari, Sardinia, Italy",
+      "lang": "Italian",
+      "url": "https://competitions.archi/competition/san-sebastiano-design-competition-for-the-new-judicial-hub-of-sassari/",
+      "desc": "anonymous, two-stage design competition The former San Sebastiano prison, built in 1859 to a design by architect and engineer Giovanni Polani, occupies about 17,000 m² in the historic centre of Sassari, bounded by via Ro",
       "source": "competitions.archi"
     }
   ]
