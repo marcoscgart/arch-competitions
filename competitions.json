@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-11-19T17:00:27.838435+00:00",
+  "updated_at": "2026-11-20T16:39:13.286822+00:00",
   "count": 44,
   "competitions": [
-    {
-      "title": "Reuse the Theater – Falerone",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "19/11/2026",
-      "registration": "19/11/2026",
-      "prize": "5000€",
-      "location": "Falerone, Marche",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/reuse-the-theater-falerone/",
-      "desc": "The Roman Theatre of Falerio Picenus, located along the Tenna river in Falerone (Marche), stands as a monumental remnant of classical engineering. Erected between the late Augustan era and the principate of Tiberius, the",
-      "source": "competitions.archi"
-    },
     {
       "title": "Call for Papers Dearq 50: Architectures that Linger",
       "org": "competitions.archi",
@@ -572,6 +559,19 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/living-markets-competition/",
       "desc": "The next NowNow competition comes to Kenya. Designers are invited to reimagine the future of Kenya’s fresh produce markets as well-managed urban infrastructure that supports healthy, affordable diets and a thriving urban",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The Oak Moon Pavilion",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "01/03/2027",
+      "registration": "28/01/2027",
+      "prize": "8,000 €",
+      "location": "Italy",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-oak-moon-pavilion/",
+      "desc": "Some places are defined not by what is built, but by what is already there. The Oak Moon Pavilion invites participants to create an architectural intervention that celebrates the quiet dialogue between landscape, movemen",
       "source": "competitions.archi"
     }
   ]
