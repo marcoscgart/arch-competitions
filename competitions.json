@@ -1,20 +1,7 @@
 {
-  "updated_at": "2026-11-23T19:46:27.770687+00:00",
-  "count": 42,
+  "updated_at": "2026-11-24T19:17:32.634128+00:00",
+  "count": 43,
   "competitions": [
-    {
-      "title": "Jabal Umm Nuthaylah International Site Design Ideas Competition Launches Global Call",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "23/11/2026",
-      "registration": "20/08/2026",
-      "prize": "USD 430,000",
-      "location": "Jabal Umm Nuthaylah",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/madinah-international-architecture-festival-2026/",
-      "desc": "The Jabal Umm Nuthaylah International Site Design Ideas Competition invites architects, landscape architects, urban designers, and multidisciplinary teams from around the world to reimagine one of Madinah’s most remarkab",
-      "source": "competitions.archi"
-    },
     {
       "title": "Best Thesis Award 2026: Architecture — Global Excellence Recognition",
       "org": "competitions.archi",
@@ -263,6 +250,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Saint-Gobain Transparence 21.0",
+      "org": "competitions.archi",
+      "type": "estudantil",
+      "deadline": "22/12/2026",
+      "registration": "15/12/2026",
+      "prize": "Win from ₹7 lakh worth of prizes",
+      "location": "India",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/saint-gobain-transparence-21-0/",
+      "desc": "Register for FREE today for one of India’s Largest Student Design Competitions: Saint-Gobain Transparence 21.0! Win from ₹7 lakh worth of prizes and gain national recognition for your design! Competition Theme: Future Wo",
+      "source": "competitions.archi"
+    },
+    {
       "title": "Community Workshop Pavilion — Architecture Competition",
       "org": "competitions.archi",
       "type": "conceito",
@@ -484,6 +484,32 @@
       "source": "competitions.archi"
     },
     {
+      "title": "MEMORY STATIONS 2026",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "15/02/2027",
+      "registration": "15/02/2027",
+      "prize": "NON-MONATORY",
+      "location": "NONE",
+      "lang": "ENGLISH",
+      "url": "https://competitions.archi/competition/memory-stations-2026/",
+      "desc": "IDEA MEMORY STATIONS 2026 | International Architectural Ideas Competition Can architecture turn an ordinary urban space into a memorable experience? ARQhub announces MEMORY STATIONS, an international architectural design",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "MEMORY STATIONS | ARCHITECTURAL DESIGN COMPETITION",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "15/02/2027",
+      "registration": "15/02/2027",
+      "prize": "NON MONATORY",
+      "location": "NONE",
+      "lang": "ENGLISH",
+      "url": "https://competitions.archi/competition/memory-stations-architectural-design-competition/",
+      "desc": "INTERNATIONAL, IDEA MEMORY STATIONS — International Architectural Ideas Competition Can architecture turn an ordinary urban space into a memorable experience? ARQhub announces MEMORY STATIONS, an international architectu",
+      "source": "competitions.archi"
+    },
+    {
       "title": "San Sebastiano – Design Competition for the New Judicial Hub of SassarI",
       "org": "competitions.archi",
       "type": "conceito",
@@ -533,19 +559,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/living-markets-competition/",
       "desc": "The next NowNow competition comes to Kenya. Designers are invited to reimagine the future of Kenya’s fresh produce markets as well-managed urban infrastructure that supports healthy, affordable diets and a thriving urban",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "The Oak Moon Pavilion",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "01/03/2027",
-      "registration": "28/01/2027",
-      "prize": "8,000 €",
-      "location": "Italy",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/the-oak-moon-pavilion/",
-      "desc": "Some places are defined not by what is built, but by what is already there. The Oak Moon Pavilion invites participants to create an architectural intervention that celebrates the quiet dialogue between landscape, movemen",
       "source": "competitions.archi"
     }
   ]
