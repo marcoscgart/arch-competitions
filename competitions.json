@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T19:17:32.634128+00:00",
+  "updated_at": "2026-11-25T18:22:31.210114+00:00",
   "count": 43,
   "competitions": [
     {
@@ -510,6 +510,19 @@
       "source": "competitions.archi"
     },
     {
+      "title": "Amazon River Dwellers",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "17/02/2027",
+      "registration": "14/02/2027",
+      "prize": "15.000 €",
+      "location": "Concept",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/amazon-river-dwellers/",
+      "desc": "A mosaic of forests, rivers, lakes, and islands where water shapes everyday life and sets the rhythm of the seasons: such is the landscape of the Amazon, a dense, deep green tapestry where nature reigns undisturbed. Here",
+      "source": "competitions.archi"
+    },
+    {
       "title": "San Sebastiano – Design Competition for the New Judicial Hub of SassarI",
       "org": "competitions.archi",
       "type": "conceito",
@@ -546,19 +559,6 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/persian-garden-suite-redefining-iranian-architectural-concepts-in-contemporary-toronto/",
       "desc": "International Architectural Design Competition The Persian Garden Suite competition is a global, single-stage design initiative that challenges architects and designers to design a contemporary, detached independent gard",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Living Markets Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "28/02/2027",
-      "registration": "28/02/2027",
-      "prize": "$4500",
-      "location": "Nairobi, Kenya",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/living-markets-competition/",
-      "desc": "The next NowNow competition comes to Kenya. Designers are invited to reimagine the future of Kenya’s fresh produce markets as well-managed urban infrastructure that supports healthy, affordable diets and a thriving urban",
       "source": "competitions.archi"
     }
   ]
