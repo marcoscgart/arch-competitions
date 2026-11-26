@@ -1,46 +1,7 @@
 {
-  "updated_at": "2026-11-25T18:22:31.210114+00:00",
-  "count": 43,
+  "updated_at": "2026-11-26T18:04:38.321653+00:00",
+  "count": 42,
   "competitions": [
-    {
-      "title": "Best Thesis Award 2026: Architecture — Global Excellence Recognition",
-      "org": "competitions.archi",
-      "type": "estudantil",
-      "deadline": "25/11/2026",
-      "registration": "25/11/2026",
-      "prize": "Recognition, Media Exposure, Certificate",
-      "location": "Worldwide",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/best-thesis-award-2026-architecture-global-excellence-recognition/",
-      "desc": "for Students (Final Year, Recent Graduates since 2025) 10% Fees Waived with Coupon “NF7FJ8N9” Premise The Best Thesis Award 2026: Architecture celebrates the most innovative architectural thesis projects developed by stu",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Best Thesis Award 2026: Planning – Future Cities & Urbanism",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "25/11/2026",
-      "registration": "25/11/2026",
-      "prize": "Ver site",
-      "location": "Worldwide",
-      "lang": "English",
-      "url": "https://competitions.archi/competition/best-thesis-award-2026-planning-future-cities-urbanism/",
-      "desc": "Premise The Best Thesis Award 2026: Planning recognizes exceptional thesis projects focused on urban planning, regional development, spatial strategy, and future city-making. As cities continue to evolve in response to r",
-      "source": "competitions.archi"
-    },
-    {
-      "title": "Urban Pocket Park (Barcelona, Spain) – Architecture Competition",
-      "org": "competitions.archi",
-      "type": "conceito",
-      "deadline": "25/11/2026",
-      "registration": "20/11/2026",
-      "prize": "$2000",
-      "location": "Barcelona, Spain",
-      "lang": "English, Spanish",
-      "url": "https://competitions.archi/competition/urban-pocket-park-barcelona-spain-architecture-competition/",
-      "desc": "For All Premise In the dense urban fabric of Barcelona, small unused “interstitial” spaces represent untapped potential. This competition challenges participants to transform these neglected urban fragments into vibrant ",
-      "source": "competitions.archi"
-    },
     {
       "title": "Rework by xFigura",
       "org": "competitions.archi",
@@ -559,6 +520,32 @@
       "lang": "English",
       "url": "https://competitions.archi/competition/persian-garden-suite-redefining-iranian-architectural-concepts-in-contemporary-toronto/",
       "desc": "International Architectural Design Competition The Persian Garden Suite competition is a global, single-stage design initiative that challenges architects and designers to design a contemporary, detached independent gard",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "Living Markets Competition",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "28/02/2027",
+      "registration": "28/02/2027",
+      "prize": "$4500",
+      "location": "Nairobi, Kenya",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/living-markets-competition/",
+      "desc": "The next NowNow competition comes to Kenya. Designers are invited to reimagine the future of Kenya’s fresh produce markets as well-managed urban infrastructure that supports healthy, affordable diets and a thriving urban",
+      "source": "competitions.archi"
+    },
+    {
+      "title": "The Oak Moon Pavilion",
+      "org": "competitions.archi",
+      "type": "conceito",
+      "deadline": "01/03/2027",
+      "registration": "28/01/2027",
+      "prize": "8,000 €",
+      "location": "Italy",
+      "lang": "English",
+      "url": "https://competitions.archi/competition/the-oak-moon-pavilion/",
+      "desc": "Some places are defined not by what is built, but by what is already there. The Oak Moon Pavilion invites participants to create an architectural intervention that celebrates the quiet dialogue between landscape, movemen",
       "source": "competitions.archi"
     }
   ]
